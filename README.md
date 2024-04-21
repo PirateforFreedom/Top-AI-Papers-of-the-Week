@@ -1,179 +1,177 @@
 # Top AI Papers of the Week
 🔥Highlighting Top LLM ,Diffusion Models,Agent,etc Papers every week. I ❤️ reading Top AI papers so I've created this repo to highlight the top AI papers of every week.
-
+NOTE:The repo only displays papers last two years ,as for papers from other years, please go to the Archives folder to find them
 Here is the weekly series:
 
 ## 2024
 
-- [Top ML Papers of the Week (April 8 - April 14)](./#top-ml-papers-of-the-week-april-8---april-14---2024)
-- [Top ML Papers of the Week (April 1 - April 7)](./#top-ml-papers-of-the-week-april-1---april-7---2024)
-- [Top ML Papers of the Week (March 26 - March 31)](./#top-ml-papers-of-the-week-march-26---march-31---2024)
-- [Top ML Papers of the Week (March 18 - March 25)](./#top-ml-papers-of-the-week-march-18---march-25---2024)
-- [Top ML Papers of the Week (March 11 - March 17)](./#top-ml-papers-of-the-week-march-11---march-17---2024)
-- [Top ML Papers of the Week (March 4 - March 10)](./#top-ml-papers-of-the-week-march-4---march-10---2024)
-- [Top ML Papers of the Week (February 26 - March 3)](./#top-ml-papers-of-the-week-february-26---march-3---2024)
-- [Top ML Papers of the Week (February 19 - February 25)](./#top-ml-papers-of-the-week-february-19---february-25---2024)
-- [Top ML Papers of the Week (February 12 - February 18)](./#top-ml-papers-of-the-week-february-12---february-18---2024)
-- [Top ML Papers of the Week (February 5 - February 11)](./#top-ml-papers-of-the-week-february-5---february-11---2024)
-- [Top ML Papers of the Week (January 29 - February 4)](./#top-ml-papers-of-the-week-january-29---february-4---2024)
-- [Top ML Papers of the Week (January 22 - January 28)](./#top-ml-papers-of-the-week-january-22---january-28---2024)
-- [Top ML Papers of the Week (January 15 - January 21)](./#top-ml-papers-of-the-week-january-15---january-21---2024)
-- [Top ML Papers of the Week (January 8 - January 14)](./#top-ml-papers-of-the-week-january-8---january-14---2024)
-- [Top ML Papers of the Week (January 1 - January 7)](./#top-ml-papers-of-the-week-january-1---january-7---2024)
+- [Top AI Papers of the Week (April 8 - April 14)](./#top-AI-papers-of-the-week-april-8---april-14---2024)
+- [Top AI Papers of the Week (April 1 - April 7)](./#top-AI-papers-of-the-week-april-1---april-7---2024)
+- [Top AI Papers of the Week (March 26 - March 31)](./#top-AI-papers-of-the-week-march-26---march-31---2024)
+- [Top AI Papers of the Week (March 18 - March 25)](./#top-AI-papers-of-the-week-march-18---march-25---2024)
+- [Top AI Papers of the Week (March 11 - March 17)](./#top-AI-papers-of-the-week-march-11---march-17---2024)
+- [Top AI Papers of the Week (March 4 - March 10)](./#top-AI-papers-of-the-week-march-4---march-10---2024)
+- [Top AI Papers of the Week (February 26 - March 3)](./#top-AI-papers-of-the-week-february-26---march-3---2024)
+- [Top AI Papers of the Week (February 19 - February 25)](./#top-AI-papers-of-the-week-february-19---february-25---2024)
+- [Top AI Papers of the Week (February 12 - February 18)](./#top-AI-papers-of-the-week-february-12---february-18---2024)
+- [Top AI Papers of the Week (February 5 - February 11)](./#top-AI-papers-of-the-week-february-5---february-11---2024)
+- [Top AI Papers of the Week (January 29 - February 4)](./#top-AI-papers-of-the-week-january-29---february-4---2024)
+- [Top AI Papers of the Week (January 22 - January 28)](./#top-AI-papers-of-the-week-january-22---january-28---2024)
+- [Top AI Papers of the Week (January 15 - January 21)](./#top-AI-papers-of-the-week-january-15---january-21---2024)
+- [Top AI Papers of the Week (January 8 - January 14)](./#top-AI-papers-of-the-week-january-8---january-14---2024)
+- [Top AI Papers of the Week (January 1 - January 7)](./#top-AI-papers-of-the-week-january-1---january-7---2024)
 
 ## 2023
 
-- [Top ML Papers of the Week (December 24 - December 31)](./#top-ml-papers-of-the-week-december-25---december-31)
-- [Top ML Papers of the Week (December 18 - December 24)](./#top-ml-papers-of-the-week-december-18---december-24)
-- [Top ML Papers of the Week (December 11 - December 17)](./#top-ml-papers-of-the-week-december-11---december-17)
-- [Top ML Papers of the Week (December 4 - December 10)](./#top-ml-papers-of-the-week-december-4---december-10)
-- [Top ML Papers of the Week (November 27 - December 3)](./#top-ml-papers-of-the-week-november-27---december-3)
-- [Top ML Papers of the Week (November 20 - November 26)](./#top-ml-papers-of-the-week-november-20---november-26)
-- [Top ML Papers of the Week (November 13 - November 19)](./#top-ml-papers-of-the-week-november-13---november-19)
-- [Top ML Papers of the Week (November 6 - November 12)](./#top-ml-papers-of-the-week-november-6---november-12)
-- [Top ML Papers of the Week (October 30 - November 5)](./#top-ml-papers-of-the-week-october-30---november-5)
-- [Top ML Papers of the Week (October 23 - October 29)](./#top-ml-papers-of-the-week-october-23---october-29)
-- [Top ML Papers of the Week (October 16 - October 22)](./#top-ml-papers-of-the-week-october-16---october-22)
-- [Top ML Papers of the Week (October 9 - October 15)](./#top-ml-papers-of-the-week-october-9---october-15)
-- [Top ML Papers of the Week (October 2 - October 8)](./#top-ml-papers-of-the-week-october-2---october-8)
-- [Top ML Papers of the Week (September 25 - October 1)](./#top-ml-papers-of-the-week-september-25---october-1)
-- [Top ML Papers of the Week (September 18 - September 24)](./#top-ml-papers-of-the-week-september-18---september-24)
-- [Top ML Papers of the Week (September 11 - September 17)](./#top-ml-papers-of-the-week-september-11---september-17)
-- [Top ML Papers of the Week (September 4 - September 10)](./#top-ml-papers-of-the-week-september-4---september-10)
-- [Top ML Papers of the Week (August 28 - September 3)](./#top-ml-papers-of-the-week-august-28---september-3)
-- [Top ML Papers of the Week (August 21 - August 27)](./#top-ml-papers-of-the-week-august-21---august-27)
-- [Top ML Papers of the Week (August 14 - August 20)](./#top-ml-papers-of-the-week-august-14---august-20)
-- [Top ML Papers of the Week (August 7 - August 13)](./#top-ml-papers-of-the-week-august-7---august-13)
-- [Top ML Papers of the Week (July 31 - August 6)](./#top-ml-papers-of-the-week-july-31---august-6)
-- [Top ML Papers of the Week (July 24 - July 30)](./#top-ml-papers-of-the-week-july-24---july-30)
-- [Top ML Papers of the Week (July 17 - July 23)](./#top-ml-papers-of-the-week-july-17---july-23)
-- [Top ML Papers of the Week (July 10 - July 16)](./#top-ml-papers-of-the-week-july-10---july-16)
-- [Top ML Papers of the Week (July 3 - July 9)](./#top-ml-papers-of-the-week-july-3---july-9)
-- [Top ML Papers of the Week (June 26 - July 2)](./#top-ml-papers-of-the-week-june-26---july-2)
-- [Top ML Papers of the Week (June 19 - June 25)](./#top-ml-papers-of-the-week-june-19---june-25)
-- [Top ML Papers of the Week (June 12 - June 18)](./#top-ml-papers-of-the-week-june-12---june-18)
-- [Top ML Papers of the Week (June 5 - June 11)](./#top-ml-papers-of-the-week-june-5---june-11)
-- [Top ML Papers of the Week (May 29 - June 4)](./#top-ml-papers-of-the-week-may-29-june-4)
-- [Top ML Papers of the Week (May 22 - 28)](./#top-ml-papers-of-the-week-may-22-28)
-- [Top ML Papers of the Week (May 15 - 21)](./#top-ml-papers-of-the-week-may-15-21)
-- [Top ML Papers of the Week (May 8 - 14)](./#top-ml-papers-of-the-week-may-8-14)
-- [Top ML Papers of the Week (May 1-7)](./#top-ml-papers-of-the-week-may-1-7)
-- [Top ML Papers of the Week (April 24 - April 30)](./#top-ml-papers-of-the-week-april-24---april-30)
-- [Top ML Papers of the Week (April 17 - April 23)](./#top-ml-papers-of-the-week-april-17---april-23)
-- [Top ML Papers of the Week (April 10 - April 16)](./#top-ml-papers-of-the-week-april-10---april-16)
-- [Top ML Papers of the Week (April 3 - April 9)](./#top-ml-papers-of-the-week-april-3---april-9)
-- [Top ML Papers of the Week (Mar 27 - April 2)](./#top-ml-papers-of-the-week-mar-27---april-2)
-- [Top ML Papers of the Week (Mar 20-Mar 26)](./#top-ml-papers-of-the-week-mar-20-mar-26)
-- [Top ML Papers of the Week (Mar 13-Mar 19)](./#top-ml-papers-of-the-week-mar-13-mar-19)
-- [Top ML Papers of the Week (Mar 6-Mar 12)](./#top-ml-papers-of-the-week-mar-6-mar-12)
-- [Top ML Papers of the Week (Feb 27-Mar 5)](./#top-ml-papers-of-the-week-feb-27-mar-5)
-- [Top ML Papers of the Week (Feb 20-26)](./#top-ml-papers-of-the-week-feb-20-26)
-- [Top ML Papers of the Week (Feb 13 - 19)](./#top-ml-papers-of-the-week-feb-13---19)
-- [Top ML Papers of the Week (Feb 6 - 12)](./#top-ml-papers-of-the-week-feb-6---12)
-- [Top ML Papers of the Week (Jan 30-Feb 5)](./#top-ml-papers-of-the-week-jan-30-feb-5)
-- [Top ML Papers of the Week (Jan 23-29)](./#top-ml-papers-of-the-week-jan-23-29)
-- [Top ML Papers of the Week (Jan 16-22)](./#top-ml-papers-of-the-week-jan-16-22)
-- [Top ML Papers of the Week (Jan 9-15)](./#top-ml-papers-of-the-week-jan-9-15)
-- [Top ML Papers of the Week (Jan 1-8)](./#top-ml-papers-of-the-week-jan-1-8)
+- [Top AI Papers of the Week (December 24 - December 31)](./#top-AI-papers-of-the-week-december-25---december-31)
+- [Top AI Papers of the Week (December 18 - December 24)](./#top-AI-papers-of-the-week-december-18---december-24)
+- [Top AI Papers of the Week (December 11 - December 17)](./#top-AI-papers-of-the-week-december-11---december-17)
+- [Top AI Papers of the Week (December 4 - December 10)](./#top-AI-papers-of-the-week-december-4---december-10)
+- [Top AI Papers of the Week (November 27 - December 3)](./#top-AI-papers-of-the-week-november-27---december-3)
+- [Top AI Papers of the Week (November 20 - November 26)](./#top-AI-papers-of-the-week-november-20---november-26)
+- [Top AI Papers of the Week (November 13 - November 19)](./#top-AI-papers-of-the-week-november-13---november-19)
+- [Top AI Papers of the Week (November 6 - November 12)](./#top-AI-papers-of-the-week-november-6---november-12)
+- [Top AI Papers of the Week (October 30 - November 5)](./#top-AI-papers-of-the-week-october-30---november-5)
+- [Top AI Papers of the Week (October 23 - October 29)](./#top-AI-papers-of-the-week-october-23---october-29)
+- [Top AI Papers of the Week (October 16 - October 22)](./#top-AI-papers-of-the-week-october-16---october-22)
+- [Top AI Papers of the Week (October 9 - October 15)](./#top-AI-papers-of-the-week-october-9---october-15)
+- [Top AI Papers of the Week (October 2 - October 8)](./#top-AI-papers-of-the-week-october-2---october-8)
+- [Top AI Papers of the Week (September 25 - October 1)](./#top-AI-papers-of-the-week-september-25---october-1)
+- [Top AI Papers of the Week (September 18 - September 24)](./#top-AI-papers-of-the-week-september-18---september-24)
+- [Top AI Papers of the Week (September 11 - September 17)](./#top-AI-papers-of-the-week-september-11---september-17)
+- [Top AI Papers of the Week (September 4 - September 10)](./#top-AI-papers-of-the-week-september-4---september-10)
+- [Top AI Papers of the Week (August 28 - September 3)](./#top-AI-papers-of-the-week-august-28---september-3)
+- [Top AI Papers of the Week (August 21 - August 27)](./#top-AI-papers-of-the-week-august-21---august-27)
+- [Top AI Papers of the Week (August 14 - August 20)](./#top-AI-papers-of-the-week-august-14---august-20)
+- [Top AI Papers of the Week (August 7 - August 13)](./#top-AI-papers-of-the-week-august-7---august-13)
+- [Top AI Papers of the Week (July 31 - August 6)](./#top-AI-papers-of-the-week-july-31---august-6)
+- [Top AI Papers of the Week (July 24 - July 30)](./#top-AI-papers-of-the-week-july-24---july-30)
+- [Top AI Papers of the Week (July 17 - July 23)](./#top-AI-papers-of-the-week-july-17---july-23)
+- [Top AI Papers of the Week (July 10 - July 16)](./#top-AI-papers-of-the-week-july-10---july-16)
+- [Top AI Papers of the Week (July 3 - July 9)](./#top-AI-papers-of-the-week-july-3---july-9)
+- [Top AI Papers of the Week (June 26 - July 2)](./#top-AI-papers-of-the-week-june-26---july-2)
+- [Top AI Papers of the Week (June 19 - June 25)](./#top-AI-papers-of-the-week-june-19---june-25)
+- [Top AI Papers of the Week (June 12 - June 18)](./#top-AI-papers-of-the-week-june-12---june-18)
+- [Top AI Papers of the Week (June 5 - June 11)](./#top-AI-papers-of-the-week-june-5---june-11)
+- [Top AI Papers of the Week (May 29 - June 4)](./#top-AI-papers-of-the-week-may-29-june-4)
+- [Top AI Papers of the Week (May 22 - 28)](./#top-AI-papers-of-the-week-may-22-28)
+- [Top AI Papers of the Week (May 15 - 21)](./#top-AI-papers-of-the-week-may-15-21)
+- [Top AI Papers of the Week (May 8 - 14)](./#top-AI-papers-of-the-week-may-8-14)
+- [Top AI Papers of the Week (May 1-7)](./#top-AI-papers-of-the-week-may-1-7)
+- [Top AI Papers of the Week (April 24 - April 30)](./#top-AI-papers-of-the-week-april-24---april-30)
+- [Top AI Papers of the Week (April 17 - April 23)](./#top-AI-papers-of-the-week-april-17---april-23)
+- [Top AI Papers of the Week (April 10 - April 16)](./#top-AI-papers-of-the-week-april-10---april-16)
+- [Top AI Papers of the Week (April 3 - April 9)](./#top-AI-papers-of-the-week-april-3---april-9)
+- [Top AI Papers of the Week (Mar 27 - April 2)](./#top-AI-papers-of-the-week-mar-27---april-2)
+- [Top AI Papers of the Week (Mar 20-Mar 26)](./#top-AI-papers-of-the-week-mar-20-mar-26)
+- [Top AI Papers of the Week (Mar 13-Mar 19)](./#top-AI-papers-of-the-week-mar-13-mar-19)
+- [Top AI Papers of the Week (Mar 6-Mar 12)](./#top-AI-papers-of-the-week-mar-6-mar-12)
+- [Top AI Papers of the Week (Feb 27-Mar 5)](./#top-AI-papers-of-the-week-feb-27-mar-5)
+- [Top AI Papers of the Week (Feb 20-26)](./#top-AI-papers-of-the-week-feb-20-26)
+- [Top AI Papers of the Week (Feb 13 - 19)](./#top-AI-papers-of-the-week-feb-13---19)
+- [Top AI Papers of the Week (Feb 6 - 12)](./#top-AI-papers-of-the-week-feb-6---12)
+- [Top AI Papers of the Week (Jan 30-Feb 5)](./#top-AI-papers-of-the-week-jan-30-feb-5)
+- [Top AI Papers of the Week (Jan 23-29)](./#top-AI-papers-of-the-week-jan-23-29)
+- [Top AI Papers of the Week (Jan 16-22)](./#top-AI-papers-of-the-week-jan-16-22)
+- [Top AI Papers of the Week (Jan 9-15)](./#top-AI-papers-of-the-week-jan-9-15)
+- [Top AI Papers of the Week (Jan 1-8)](./#top-AI-papers-of-the-week-jan-1-8)
 
-[Follow us on Twitter](https://twitter.com/dair_ai)
 
-[Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
-## Top ML Papers of the Week (April 8 - April 14) - 2024
+## Top AI Papers of the Week (April 8 - April 14) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **Leave No Context Behind** - integrates compressive memory into a vanilla dot-product attention layer; the goal is to enable Transformer LLMs to effectively process infinitely long inputs with bounded memory footprint and computation; proposes a new attention technique called Infini-attention which incorporates a compressive memory module into a vanilla attention mechanism; it builds in both masked local attention and long-term linear attention into a single Transformer block; this allows the Infini-Transformer model to efficiently handle both long and short-range contextual dependencies; outperforms baseline models on long-context language modeling with a 114x compression ratio of memory.  | [Paper](https://arxiv.org/abs/2404.07143), [Tweet](https://x.com/omarsar0/status/1778480897198612839) |
-| 2) **OpenEQA** - proposes an open-vocabulary benchmark dataset to measure the capabilities of AI models to perform embodied question answering (EQA); it contains 1600 human-generated questions composed from 180 real-world environments; also provides an LLM-powered evaluation protocol for the task and shows that models like GPT-4V are significantly behind human-level performance.| [Paper](https://open-eqa.github.io/assets/pdfs/paper.pdf), [Tweet](https://x.com/AIatMeta/status/1778425321118732578) |
-| 3) **CodeGemma** - a family of open code LLMs based on Gemma; CodeGemma 7B models excel in mathematical reasoning and match the code capabilities of other open models; the instruction-tuned CodeGemma 7B model is the more powerful model for Python coding as assessed via the HumanEval benchmark; results also suggest that the model performs best on GSM8K among 7B models; the CodeGemma 2B model achieves SoTA code completion and is designed for fast code infilling and deployment in latency-sensitive settings. | [Paper](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf), [Tweet](https://x.com/omarsar0/status/1777723836202467713) |
-| 4) **LM-Guided Chain-of-Thought** - applies knowledge distillation to a small LM with rationales generated by the large LM with the hope of narrowing the gap in reasoning capabilities; the rationale is generated by the lightweight LM and the answer prediction is then left for the frozen large LM; this resource-efficient approach avoids the need to fine-tune the large model and instead offloads the rationale generation to the small language model; the knowledge-distilled LM is further optimized with reinforcement learning using several rational-oriented and task-oriented reward signals; the LM-guided CoT prompting approach proposed in this paper outperforms both standard prompting and CoT prompting. Self-consistency decoding also enhances performance.  | [Paper](https://arxiv.org/abs/2404.03414), [Tweet](https://x.com/omarsar0/status/1777755819150373121) |
-| 5) **Best Practices and Lessons on Synthetic Data** - an overview by Google DeepMind on synthetic data research, covering applications, challenges, and future directions; discusses important topics when working with synthetic data such as ensuring quality, factuality, fidelity, unbiasedness, trustworthiness, privacy, and more.| [Paper](https://arxiv.org/abs/2404.07503), [Tweet](https://x.com/omarsar0/status/1778804848038683066) |
-| 6) **Reasoning with Intermediate Revision and Search** - presents an approach for general reasoning and search on tasks that can be decomposed into components; the proposed graph-based framework, THOUGHTSCULPT, incorporates iterative self-revision capabilities and allows an LLM to build an interwoven network of thoughts; unlike other approaches such as Tree-of-thoughts that shape the reasoning process using a tree, this new approach incorporates Monte Carlo Tree Search (MCTS) to efficiently navigate the search space; due to its ability for continuous thought iteration, THOUGHTSCULPT is particularly suitable for tasks such as open-ended generation, multip-step reasoning, and creative ideation.   | [Paper](https://arxiv.org/abs/2404.05966),  [Tweet](https://x.com/omarsar0/status/1777896810805186757)  |
-| 7) **Overview of Multilingual LLMs** - a survey on multilingual LLMs including a thorough review of methods, a taxonomy, emerging frontiers, challenges, and resources to advance research | [Paper](https://arxiv.org/abs/2404.04925),  [Tweet](https://x.com/omarsar0/status/1778063103906771105)  |
-| 8) **The Physics of Language Models** - investigates knowledge capacity scaling laws where it evaluates a model’s capability via loss or benchmarks, to estimate the number of knowledge bits a model stores; reports that "Language models can and only can store 2 bits of knowledge per parameter, even when quantized to int8, and such knowledge can be flexibly extracted for downstream applications. Consequently, a 7B model can store 14B bits of knowledge, surpassing the English Wikipedia and textbooks combined based on our estimation." | [Paper](https://arxiv.org/abs/2404.05405),  [Tweet](https://x.com/omarsar0/status/1777709227319968034)  |
-| 9) **Aligning LLMs to Quote from Pre-Training Data** - proposes techniques to align LLMs to leverage memorized information quotes directly from pre-training data; the alignment approach is not only able to generate high-quality quoted verbatim statements but overall preserve response quality; it leverages a synthetic preference dataset for quoting without any human annotation and aligns the target model to quote using preference optimization.  | [Paper](https://arxiv.org/abs/2404.03862), [Tweet](https://x.com/omarsar0/status/1777408054402646433)  |
-| 10) **The Influence Between NLP and Other Fields** - aims to quantify the degree of influence between 23 fields of study and NLP; the cross-field engagement of NLP has declined from 0.58 in 1980 to 0.31 in 2022; the study also finds that NLP citations are dominated by CS which accounts for over 80% of citations with emphasis on AI, ML, and information retrieval; overall, NLP is growing more insular -- higher growth of intra-field citation and a decline in multidisciplinary works. | [Paper](https://aclanthology.org/2023.emnlp-main.797/), [Tweet](https://x.com/omarsar0/status/1777337237794955586) |
+| 1) **Leave No Context Behind** - integrates compressive memory into a vanilla dot-product attention layer; the goal is to enable Transformer LLMs to effectively process infinitely long inputs with bounded memory footprint and computation; proposes a new attention technique called Infini-attention which incorporates a compressive memory module into a vanilla attention mechanism; it builds in both masked local attention and long-term linear attention into a single Transformer block; this allows the Infini-Transformer model to efficiently handle both long and short-range contextual dependencies; outperforms baseline models on long-context language modeling with a 114x compression ratio of memory.  | [Paper](https://arxiv.org/abs/2404.07143) |
+| 2) **OpenEQA** - proposes an open-vocabulary benchmark dataset to measure the capabilities of AI models to perform embodied question answering (EQA); it contains 1600 human-generated questions composed from 180 real-world environments; also provides an LLM-powered evaluation protocol for the task and shows that models like GPT-4V are significantly behind human-level performance.| [Paper](https://open-eqa.github.io/assets/pdfs/paper.pdf) |
+| 3) **CodeGemma** - a family of open code LLMs based on Gemma; CodeGemma 7B models excel in mathematical reasoning and match the code capabilities of other open models; the instruction-tuned CodeGemma 7B model is the more powerful model for Python coding as assessed via the HumanEval benchmark; results also suggest that the model performs best on GSM8K among 7B models; the CodeGemma 2B model achieves SoTA code completion and is designed for fast code infilling and deployment in latency-sensitive settings. | [Paper](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf) |
+| 4) **LM-Guided Chain-of-Thought** - applies knowledge distillation to a small LM with rationales generated by the large LM with the hope of narrowing the gap in reasoning capabilities; the rationale is generated by the lightweight LM and the answer prediction is then left for the frozen large LM; this resource-efficient approach avoids the need to fine-tune the large model and instead offloads the rationale generation to the small language model; the knowledge-distilled LM is further optimized with reinforcement learning using several rational-oriented and task-oriented reward signals; the LM-guided CoT prompting approach proposed in this paper outperforms both standard prompting and CoT prompting. Self-consistency decoding also enhances performance.  | [Paper](https://arxiv.org/abs/2404.03414) |
+| 5) **Best Practices and Lessons on Synthetic Data** - an overview by Google DeepMind on synthetic data research, covering applications, challenges, and future directions; discusses important topics when working with synthetic data such as ensuring quality, factuality, fidelity, unbiasedness, trustworthiness, privacy, and more.| [Paper](https://arxiv.org/abs/2404.07503)|
+| 6) **Reasoning with Intermediate Revision and Search** - presents an approach for general reasoning and search on tasks that can be decomposed into components; the proposed graph-based framework, THOUGHTSCULPT, incorporates iterative self-revision capabilities and allows an LLM to build an interwoven network of thoughts; unlike other approaches such as Tree-of-thoughts that shape the reasoning process using a tree, this new approach incorporates Monte Carlo Tree Search (MCTS) to efficiently navigate the search space; due to its ability for continuous thought iteration, THOUGHTSCULPT is particularly suitable for tasks such as open-ended generation, multip-step reasoning, and creative ideation.   | [Paper](https://arxiv.org/abs/2404.05966) |
+| 7) **Overview of Multilingual LLMs** - a survey on multilingual LLMs including a thorough review of methods, a taxonomy, emerging frontiers, challenges, and resources to advance research | [Paper](https://arxiv.org/abs/2404.04925) |
+| 8) **The Physics of Language Models** - investigates knowledge capacity scaling laws where it evaluates a model’s capability via loss or benchmarks, to estimate the number of knowledge bits a model stores; reports that "Language models can and only can store 2 bits of knowledge per parameter, even when quantized to int8, and such knowledge can be flexibly extracted for downstream applications. Consequently, a 7B model can store 14B bits of knowledge, surpassing the English Wikipedia and textbooks combined based on our estimation." | [Paper](https://arxiv.org/abs/2404.05405) |
+| 9) **Aligning LLMs to Quote from Pre-Training Data** - proposes techniques to align LLMs to leverage memorized information quotes directly from pre-training data; the alignment approach is not only able to generate high-quality quoted verbatim statements but overall preserve response quality; it leverages a synthetic preference dataset for quoting without any human annotation and aligns the target model to quote using preference optimization.  | [Paper](https://arxiv.org/abs/2404.03862) |
+| 10) **The Influence Between NLP and Other Fields** - aims to quantify the degree of influence between 23 fields of study and NLP; the cross-field engagement of NLP has declined from 0.58 in 1980 to 0.31 in 2022; the study also finds that NLP citations are dominated by CS which accounts for over 80% of citations with emphasis on AI, ML, and information retrieval; overall, NLP is growing more insular -- higher growth of intra-field citation and a decline in multidisciplinary works. | [Paper](https://aclanthology.org/2023.emnlp-main.797/) |
 
-## Top ML Papers of the Week (April 1 - April 7) - 2024
+## Top AI Papers of the Week (April 1 - April 7) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **Many-shot Jailbreaking** - proposes a jailbreaking technique called many-shot jailbreaking to evade the safety guardrails of LLMs; this jailbreaking technique exploits the longer context window supported by many modern LLMs; it includes a very large number of faux dialogues (~256) preceding the final question which effectively steers the model to produce harmful responses. | [Paper](https://www.anthropic.com/research/many-shot-jailbreaking), [Tweet](https://x.com/AnthropicAI/status/1775211248239464837) |
-| 2) **SWE-Agent** - a new open-source agentic system that can automatically solve GitHub issues with similar accuracy as Devin on the SWE-bench; the agent interacts with a specialized terminal and enables important processing of files and executable tests to achieve good performance; on SWE-bench, SWE-agent resolves 12.29% of issues, achieving the state-of-the-art performance on the full test set.  | [Paper](https://github.com/princeton-nlp/SWE-agent), [Tweet](https://x.com/jyangballin/status/1775114444370051582) |
-| 3) **Mixture-of-Depths** - demonstrates that transformer models can learn to efficiently and dynamically allocate FLOPs to specific positions in a sequence; this helps to optimize the allocation along the sequence for different layers across model depth; findings suggest that for a given FLOP budget models can be trained to perform faster and better than their baseline counterparts. | [Paper](https://arxiv.org/abs/2404.02258), [Tweet](https://x.com/TheSeaMouse/status/1775782800362242157) |
-| 4) **Local Context LLMs Struggle with Long In-Context Learning** - finds that after evaluating 13 long-context LLMs on long in-context learning the LLMs perform relatively well under the token length of 20K. However, after the context window exceeds 20K, most LLMs except GPT-4 will dip dramatically.  | [Paper](https://arxiv.org/abs/2404.02060), [Tweet](https://x.com/omarsar0/status/1775638933377786076) |
-| 5) **Visualization-of-Thought** - inspired by a human cognitive capacity to imagine unseen worlds, this new work proposes Visualization-of-Thought (VoT) prompting to elicit spatial reasoning in LLMs; VoT enables LLMs to "visualize" their reasoning traces, creating internal mental images, that help to guide subsequent reasoning steps; when tested on multi-hop spatial reasoning tasks like visual tiling and visual navigation, VoT outperforms existing multimodal LLMs. | [Paper](https://arxiv.org/abs/2404.03622), [Tweet](https://x.com/omarsar0/status/1776082343813403063) |
-| 6) **The Unreasonable Ineffectiveness of the Deeper Layers** - finds that a simple layer-pruning strategy of popular open-weight pretraining LLMs shows minimal performance degradation until after a large fraction (up to half) of the layers are removed; using a layer similarity mechanism optimal blocks are identified and pruned followed by a small amount of fine-tuning to heal damage  | [Paper](https://arxiv.org/abs/2403.17887v1),  [Tweet](https://x.com/AlphaSignalAI/status/1774858806817906971)  |
-| 7) **JetMoE** - an 8B model trained with less than $ 0.1 million cost but outperforms LLaMA2-7B; shows that LLM training can be much cheaper than generally thought; JetMoE-8B has 24 blocks where each block has two MoE layers: Mixture of Attention heads (MoA) and Mixture of MLP Experts (MoE); each MoA and MoE layer has 8 experts, and 2 experts are activated for each input token with 2.2B active parameters.  | [Paper](https://research.myshell.ai/jetmoe),  [Tweet](https://x.com/omarsar0/status/1775971009469768104)  |
-| 8) **Representation Finetuning for LMs** - proposes a method for representation fine-tuning (ReFT) that operates on a frozen base model and learns task-specific interventions on hidden representations; in other words, by manipulating a small fraction of model representations it is possible to effectively steer model behavior to achieve better downstream performance at inference time; also proposes LoReFT as a drop-in replacement for PEFTs that is 10-50x more parameter efficient. | [Paper](https://arxiv.org/abs/2404.03592),  [Tweet](https://x.com/arankomatsuzaki/status/1776057023697731913)  |
-| 9) **Advancing LLM Reasoning** - proposes a suite of LLMs (Eurus) optimized for reasoning and achieving SoTA among open-source models on tasks such as mathematics and code generation; Eurus-70B outperforms GPT-3.5 Turbo in reasoning largely due to a newly curated, high-quality alignment dataset designed for complex reasoning tasks; the data includes instructions with preference tree consisting of reasoning chains, multi-turn interactions and pairwise data for preference learning. | [Paper](https://github.com/OpenBMB/Eurus/blob/main/paper.pdf), [Tweet](https://x.com/lifan__yuan/status/1775217887701278798)  |
-| 10) **Training LLMs over Neurally Compressed Text** - explores training LLMs with neural text compressors; the proposed compression technique segments text into blocks that each compress to the same bit length; the approach improves at scale and outperforms byte-level baselines on both perplexity and inference speed benchmarks; latency is reduced to the shorter sequence length | [Paper](https://arxiv.org/abs/2404.03626), [Tweet](https://x.com/arankomatsuzaki/status/1776055420848631814) |
+| 1) **Many-shot Jailbreaking** - proposes a jailbreaking technique called many-shot jailbreaking to evade the safety guardrails of LLMs; this jailbreaking technique exploits the longer context window supported by many modern LLMs; it includes a very large number of faux dialogues (~256) preceding the final question which effectively steers the model to produce harmful responses. | [Paper](https://www.anthropic.com/research/many-shot-jailbreaking)|
+| 2) **SWE-Agent** - a new open-source agentic system that can automatically solve GitHub issues with similar accuracy as Devin on the SWE-bench; the agent interacts with a specialized terminal and enables important processing of files and executable tests to achieve good performance; on SWE-bench, SWE-agent resolves 12.29% of issues, achieving the state-of-the-art performance on the full test set.  | [Paper](https://github.com/princeton-nlp/SWE-agent) |
+| 3) **Mixture-of-Depths** - demonstrates that transformer models can learn to efficiently and dynamically allocate FLOPs to specific positions in a sequence; this helps to optimize the allocation along the sequence for different layers across model depth; findings suggest that for a given FLOP budget models can be trained to perform faster and better than their baseline counterparts. | [Paper](https://arxiv.org/abs/2404.02258)|
+| 4) **Local Context LLMs Struggle with Long In-Context Learning** - finds that after evaluating 13 long-context LLMs on long in-context learning the LLMs perform relatively well under the token length of 20K. However, after the context window exceeds 20K, most LLMs except GPT-4 will dip dramatically.  | [Paper](https://arxiv.org/abs/2404.02060)|
+| 5) **Visualization-of-Thought** - inspired by a human cognitive capacity to imagine unseen worlds, this new work proposes Visualization-of-Thought (VoT) prompting to elicit spatial reasoning in LLMs; VoT enables LLMs to "visualize" their reasoning traces, creating internal mental images, that help to guide subsequent reasoning steps; when tested on multi-hop spatial reasoning tasks like visual tiling and visual navigation, VoT outperforms existing multimodal LLMs. | [Paper](https://arxiv.org/abs/2404.03622)|
+| 6) **The Unreasonable Ineffectiveness of the Deeper Layers** - finds that a simple layer-pruning strategy of popular open-weight pretraining LLMs shows minimal performance degradation until after a large fraction (up to half) of the layers are removed; using a layer similarity mechanism optimal blocks are identified and pruned followed by a small amount of fine-tuning to heal damage  | [Paper](https://arxiv.org/abs/2403.17887v1) |
+| 7) **JetMoE** - an 8B model trained with less than $ 0.1 million cost but outperforms LLaMA2-7B; shows that LLM training can be much cheaper than generally thought; JetMoE-8B has 24 blocks where each block has two MoE layers: Mixture of Attention heads (MoA) and Mixture of MLP Experts (MoE); each MoA and MoE layer has 8 experts, and 2 experts are activated for each input token with 2.2B active parameters.  | [Paper](https://research.myshell.ai/jetmoe)  |
+| 8) **Representation Finetuning for LMs** - proposes a method for representation fine-tuning (ReFT) that operates on a frozen base model and learns task-specific interventions on hidden representations; in other words, by manipulating a small fraction of model representations it is possible to effectively steer model behavior to achieve better downstream performance at inference time; also proposes LoReFT as a drop-in replacement for PEFTs that is 10-50x more parameter efficient. | [Paper](https://arxiv.org/abs/2404.03592) |
+| 9) **Advancing LLM Reasoning** - proposes a suite of LLMs (Eurus) optimized for reasoning and achieving SoTA among open-source models on tasks such as mathematics and code generation; Eurus-70B outperforms GPT-3.5 Turbo in reasoning largely due to a newly curated, high-quality alignment dataset designed for complex reasoning tasks; the data includes instructions with preference tree consisting of reasoning chains, multi-turn interactions and pairwise data for preference learning. | [Paper](https://github.com/OpenBMB/Eurus/blob/main/paper.pdf) |
+| 10) **Training LLMs over Neurally Compressed Text** - explores training LLMs with neural text compressors; the proposed compression technique segments text into blocks that each compress to the same bit length; the approach improves at scale and outperforms byte-level baselines on both perplexity and inference speed benchmarks; latency is reduced to the shorter sequence length | [Paper](https://arxiv.org/abs/2404.03626) |
 
 
-## Top ML Papers of the Week (March 26 - March 31) - 2024
+## Top AI Papers of the Week (March 26 - March 31) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **DBRX** - a new 132B parameter open LLM that outperforms all the established open-source models on common benchmarks like MMLU and GSM8K; DBRX was pretrained on 12T tokens (text and code) and uses a mixture-of-experts (MoE) architecture; its inference is up to 2x faster than LLaMA2-70B and is about 40% of the size of Grok-1 in terms of both total and active parameter counts; there is also DBRX Instruct which demonstrates good performance in programming and mathematics; while DBRX is trained as a general-purpose LLM, it still surpasses CodeLLaMa-70 Instruct, a model built explicitly for code generation. | [Paper](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm), [Tweet](https://x.com/omarsar0/status/1773018193885303266?s=20) |
-| 2) **Grok-1.5** - xAI’s latest long-context LLM for advanced understanding and reasoning and problem-solving capabilities; Grok-1.5 achieved a 50.6% score on the MATH benchmark and a 90% score on the GSM8K benchmark; this model can process long contexts of up to 128K tokens and demonstrates powerful retrieval capabilities. | [Paper](https://x.ai/blog/grok-1.5), [Tweet](https://x.com/xai/status/1773510159740063860?s=20) |
-| 3) **SEEDS** - a generative AI model based on diffusion models that shows powerful capabilities to quantify uncertainty in weather forecasting; it can generate a large ensemble conditioned on as few as one or two forecasts from an operational numerical weather prediction system.  | [Paper](https://www.science.org/doi/10.1126/sciadv.adk4489), [Tweet](https://x.com/GoogleAI/status/1773774362413355099?s=20) |
-| 4) **LLMs for University-Level Coding Course** - finds that the latest LLMs have not surpassed human proficiency in physics coding assignments; also finds that GPT-4 significantly outperforms GPT-3.5 and prompt engineering can further enhance performance.  | [Paper](https://arxiv.org/abs/2403.16977), [Tweet](https://x.com/omarsar0/status/1772647466820685895?s=20) |
-| 5) **Mini-Gemini** - a simple framework to enhance multi-modality vision models; specifically, visual tokens are enhanced through an additional visual encoder for high-resolution refinement without token increase; achieves top performance in several zero-shot benchmarks and even surpasses the developed private models.   | [Paper](https://arxiv.org/abs/2403.18814v1), [Tweet](https://x.com/_akhaliq/status/1773170068521713713?s=20) |
-| 6) **Long-form factuality in LLMs** - investigates long-form factuality in open-domain by generating a prompt set of questions including 38 topics; also proposes an LLM-based agent to perform evaluation for the task; finds that LLM agents can achieve superhuman rating performance and is reported to be 20 times cheaper than human annotations.  | [Paper](https://arxiv.org/abs/2403.18802v1),  [Tweet](https://x.com/JerryWeiAI/status/1773402343301877960?s=20)  |
-| 7) **Agent Lumos** - a unified framework for training open-source LLM-based agents; it consists of a modular architecture with a planning module that can learn subgoal generation and a module trained to translate them to action with tool usage. | [Paper](https://arxiv.org/abs/2311.05657),  [Tweet](https://x.com/Wade_Yin9712/status/1773792306791055397?s=20)  |
-| 8) **AIOS** - an LLM agent operation system that integrates LLMs into operation systems as a brain; the agent can optimize resource allocation, context switching, enable concurrent execution of agents, tool service, and even maintain access control for agents. | [Paper](https://arxiv.org/abs/2403.16971v2),  [Tweet](https://x.com/arankomatsuzaki/status/1772460132745547976?s=20)  |
-| 9) **FollowIR** - a dataset with instruction evaluation benchmark and a separate set for teaching information retrieval model to follow real-world instructions; a FollowIR-7B model has significant improvements (over 13%) after fine-tuning on a training set. | [Paper](https://arxiv.org/abs/2403.15246), [Tweet](https://x.com/arankomatsuzaki/status/1772082608609833127?s=20)  |
-| 10) **LLM2LLM** - an iterative data augmentation strategy that leverages a teacher LLM to enhance a small seed dataset by augmenting additional data that can be used to effectively fine-tune models; it significantly enhances the performance of LLMs in the low-data regime, outperforming both traditional fine-tuning and other data augmentation baselines.| [Paper](https://arxiv.org/abs/2403.15042), [Tweet](https://x.com/arankomatsuzaki/status/1772078585903219007?s=20) |
+| 1) **DBRX** - a new 132B parameter open LLM that outperforms all the established open-source models on common benchmarks like MMLU and GSM8K; DBRX was pretrained on 12T tokens (text and code) and uses a mixture-of-experts (MoE) architecture; its inference is up to 2x faster than LLaMA2-70B and is about 40% of the size of Grok-1 in terms of both total and active parameter counts; there is also DBRX Instruct which demonstrates good performance in programming and mathematics; while DBRX is trained as a general-purpose LLM, it still surpasses CodeLLaMa-70 Instruct, a model built explicitly for code generation. | [Paper](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)|
+| 2) **Grok-1.5** - xAI’s latest long-context LLM for advanced understanding and reasoning and problem-solving capabilities; Grok-1.5 achieved a 50.6% score on the MATH benchmark and a 90% score on the GSM8K benchmark; this model can process long contexts of up to 128K tokens and demonstrates powerful retrieval capabilities. | [Paper](https://x.ai/blog/grok-1.5) |
+| 3) **SEEDS** - a generative AI model based on diffusion models that shows powerful capabilities to quantify uncertainty in weather forecasting; it can generate a large ensemble conditioned on as few as one or two forecasts from an operational numerical weather prediction system.  | [Paper](https://www.science.org/doi/10.1126/sciadv.adk4489)|
+| 4) **LLMs for University-Level Coding Course** - finds that the latest LLMs have not surpassed human proficiency in physics coding assignments; also finds that GPT-4 significantly outperforms GPT-3.5 and prompt engineering can further enhance performance.  | [Paper](https://arxiv.org/abs/2403.16977)|
+| 5) **Mini-Gemini** - a simple framework to enhance multi-modality vision models; specifically, visual tokens are enhanced through an additional visual encoder for high-resolution refinement without token increase; achieves top performance in several zero-shot benchmarks and even surpasses the developed private models.   | [Paper](https://arxiv.org/abs/2403.18814v1)|
+| 6) **Long-form factuality in LLMs** - investigates long-form factuality in open-domain by generating a prompt set of questions including 38 topics; also proposes an LLM-based agent to perform evaluation for the task; finds that LLM agents can achieve superhuman rating performance and is reported to be 20 times cheaper than human annotations.  | [Paper](https://arxiv.org/abs/2403.18802v1)|
+| 7) **Agent Lumos** - a unified framework for training open-source LLM-based agents; it consists of a modular architecture with a planning module that can learn subgoal generation and a module trained to translate them to action with tool usage. | [Paper](https://arxiv.org/abs/2311.05657) |
+| 8) **AIOS** - an LLM agent operation system that integrates LLMs into operation systems as a brain; the agent can optimize resource allocation, context switching, enable concurrent execution of agents, tool service, and even maintain access control for agents. | [Paper](https://arxiv.org/abs/2403.16971v2)  |
+| 9) **FollowIR** - a dataset with instruction evaluation benchmark and a separate set for teaching information retrieval model to follow real-world instructions; a FollowIR-7B model has significant improvements (over 13%) after fine-tuning on a training set. | [Paper](https://arxiv.org/abs/2403.15246) |
+| 10) **LLM2LLM** - an iterative data augmentation strategy that leverages a teacher LLM to enhance a small seed dataset by augmenting additional data that can be used to effectively fine-tune models; it significantly enhances the performance of LLMs in the low-data regime, outperforming both traditional fine-tuning and other data augmentation baselines.| [Paper](https://arxiv.org/abs/2403.15042) |
 
 
-## Top ML Papers of the Week (March 18 - March 25) - 2024
+## Top AI Papers of the Week (March 18 - March 25) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **Grok-1** - a mixture-of-experts model with 314B parameters which includes the open release of the base model weights and network architecture; the MoE model activates 25% of the weights for a given token and its pretraining cutoff date is October 2023. | [Paper](https://x.ai/blog/grok-os), [Tweet](https://x.com/ibab_ml/status/1769447989192675748?s=20) |
-| 2) **Evolutionary Model Merge** - an approach for automating foundation model development using evolution to combine open-source models; facilitates cross-domain merging where a Japanese Math LLM achieved state-of-the-art performance on Japanese LLM benchmarks, even surpassing models with significantly more parameters, despite not explicitly trained for these tasks.   | [Paper](https://arxiv.org/abs/2403.13187), [Tweet](https://x.com/SakanaAILabs/status/1770613032198279663?s=20) |
-| 3) **TacticAI** - an AI-powered assistant for football tactics developed and evaluated in collaboration with domain experts from Liverpool FC; the systems offer coaches a way to sample and explore alternative player setups for a corner kick routine and select the tactic with the highest predicted likelihood of success; TacticAI’s model suggestions are favored over existing tactics 90% of the time and it offers an effective corner kick retrieval system. | [Paper](https://www.nature.com/articles/s41467-024-45965-x), [Tweet](https://x.com/GoogleDeepMind/status/1770121564085707082?s=20) |
-| 4) **Tool Use in LLMs** - provides an overview of tool use in LLMs, including a formal definition of the tool-use paradigm, scenarios where LLMs leverage tool usage, and for which tasks this approach works well; it also provides an analysis of complex tool usage and summarize testbeds and evaluation metrics across LM tooling works.  | [Paper](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf), [Tweet](https://x.com/omarsar0/status/1770497515898433896?s=20) |
-| 5) **Step-by-Step Comparisons Make LLMs Better Reasoners** - proposes RankPrompt, a prompting method to enable LLMs to self-rank their responses without additional resources; this self-ranking approach ranks candidates through a systematic, step-by-step comparative evaluation; it seems to work well as it leverages the capabilities of LLMs to generate chains of comparisons as demonstrations; RankPrompt significantly enhances the reasoning performance of ChatGPT and GPT-4 on many arithmetic and commonsense reasoning tasks.  | [Paper](https://arxiv.org/abs/2403.12373), [Tweet](https://x.com/omarsar0/status/1770492690129359135?s=20) |
-| 6) **LLM4Decompile** - a family of open-access decompilation LLMs ranging from 1B to 33B parameters; these models are trained on 4 billion tokens of C source code and corresponding assembly code; the authors also introduce Decompile-Eval, a dataset for assessing re-compatibility and re-executability for decompilation and evaluating with a perspective of program semantics; LLM4Decompile demonstrates the capability to decompile 21% of the assembly code, achieving a 50% improvement over GPT-4. | [Paper](https://arxiv.org/abs/2403.05286v1),  [Tweet](https://x.com/omarsar0/status/1771218791399092351?s=20)  |
-| 7)  **Agent-FLAN** - designs data and methods to effectively fine-tune language models for agents, referred to as Agent-FLAN; this enables Llama2-7B to outperform prior best works by 3.5% across various agent evaluation datasets; Agent-FLAN greatly alleviates the hallucination issues and consistently improves the agent capability of LLMs when scaling model sizes while generally improving the LLM. | [Paper](https://arxiv.org/abs/2403.12881v1),  [Tweet](https://x.com/_akhaliq/status/1770302813152690259?s=20)  |
-| 8) **LLMs Leak Proprietary Information** - shows that it’s possible to learn a large amount of non-public information about an API-protected LLM using the logits; with a relatively small number of API queries, the approach estimates that the embedding size of OpenAI's gpt-3.5-turbo to be about 4,096; the paper also proposes guardrails against the attacks used | [Paper](https://arxiv.org/abs/2403.09539),  [Tweet](https://x.com/DimitrisPapail/status/1768654579254579385?s=20)  |
-| 9) **DROID** - an open-source, large-scale robot manipulation dataset to train and build more capable and robust robotic manipulation policies; it contains 76K demonstration trajectories, collected across 564 scenes and 86 tasks; training with DROID leads to higher performing policies and generalization. | [Paper](https://arxiv.org/abs/2403.12945), [Tweet](https://x.com/chelseabfinn/status/1770311755140575413?s=20)  |
-| 10) **Retrieval-Augmented Fine-Tuning** - combines the benefits of RAG and fine-tuning to improve a model's ability to answer questions in "open-book" in-domain settings; combining it with RAFT's CoT-style response helps to improve reasoning. | [Paper](https://arxiv.org/abs/2403.10131), [Tweet](https://x.com/cwolferesearch/status/1770912695765660139?s=20) |
+| 1) **Grok-1** - a mixture-of-experts model with 314B parameters which includes the open release of the base model weights and network architecture; the MoE model activates 25% of the weights for a given token and its pretraining cutoff date is October 2023. | [Paper](https://x.ai/blog/grok-os)|
+| 2) **Evolutionary Model Merge** - an approach for automating foundation model development using evolution to combine open-source models; facilitates cross-domain merging where a Japanese Math LLM achieved state-of-the-art performance on Japanese LLM benchmarks, even surpassing models with significantly more parameters, despite not explicitly trained for these tasks.   | [Paper](https://arxiv.org/abs/2403.13187) |
+| 3) **TacticAI** - an AI-powered assistant for football tactics developed and evaluated in collaboration with domain experts from Liverpool FC; the systems offer coaches a way to sample and explore alternative player setups for a corner kick routine and select the tactic with the highest predicted likelihood of success; TacticAI’s model suggestions are favored over existing tactics 90% of the time and it offers an effective corner kick retrieval system. | [Paper](https://www.nature.com/articles/s41467-024-45965-x)|
+| 4) **Tool Use in LLMs** - provides an overview of tool use in LLMs, including a formal definition of the tool-use paradigm, scenarios where LLMs leverage tool usage, and for which tasks this approach works well; it also provides an analysis of complex tool usage and summarize testbeds and evaluation metrics across LM tooling works.  | [Paper](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) |
+| 5) **Step-by-Step Comparisons Make LLMs Better Reasoners** - proposes RankPrompt, a prompting method to enable LLMs to self-rank their responses without additional resources; this self-ranking approach ranks candidates through a systematic, step-by-step comparative evaluation; it seems to work well as it leverages the capabilities of LLMs to generate chains of comparisons as demonstrations; RankPrompt significantly enhances the reasoning performance of ChatGPT and GPT-4 on many arithmetic and commonsense reasoning tasks.  | [Paper](https://arxiv.org/abs/2403.12373)|
+| 6) **LLM4Decompile** - a family of open-access decompilation LLMs ranging from 1B to 33B parameters; these models are trained on 4 billion tokens of C source code and corresponding assembly code; the authors also introduce Decompile-Eval, a dataset for assessing re-compatibility and re-executability for decompilation and evaluating with a perspective of program semantics; LLM4Decompile demonstrates the capability to decompile 21% of the assembly code, achieving a 50% improvement over GPT-4. | [Paper](https://arxiv.org/abs/2403.05286v1) |
+| 7)  **Agent-FLAN** - designs data and methods to effectively fine-tune language models for agents, referred to as Agent-FLAN; this enables Llama2-7B to outperform prior best works by 3.5% across various agent evaluation datasets; Agent-FLAN greatly alleviates the hallucination issues and consistently improves the agent capability of LLMs when scaling model sizes while generally improving the LLM. | [Paper](https://arxiv.org/abs/2403.12881v1)|
+| 8) **LLMs Leak Proprietary Information** - shows that it’s possible to learn a large amount of non-public information about an API-protected LLM using the logits; with a relatively small number of API queries, the approach estimates that the embedding size of OpenAI's gpt-3.5-turbo to be about 4,096; the paper also proposes guardrails against the attacks used | [Paper](https://arxiv.org/abs/2403.09539) |
+| 9) **DROID** - an open-source, large-scale robot manipulation dataset to train and build more capable and robust robotic manipulation policies; it contains 76K demonstration trajectories, collected across 564 scenes and 86 tasks; training with DROID leads to higher performing policies and generalization. | [Paper](https://arxiv.org/abs/2403.12945) |
+| 10) **Retrieval-Augmented Fine-Tuning** - combines the benefits of RAG and fine-tuning to improve a model's ability to answer questions in "open-book" in-domain settings; combining it with RAFT's CoT-style response helps to improve reasoning. | [Paper](https://arxiv.org/abs/2403.10131) |
 
-## Top ML Papers of the Week (March 11 - March 17) - 2024
+## Top AI ML Papers of the Week (March 11 - March 17) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **SIMA** - a generalist AI agent for 3D virtual environments that follows natural-language instructions in a broad range of 3D virtual environments and video games; SIMA is evaluated across 600 basic skills, spanning navigation, object interaction, and menu use. Language seems to be a huge factor in performance. | [Paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf), [Tweet](https://x.com/GoogleDeepMind/status/1767918515585994818?s=20) |
-| 2) **Retrieval Augmented Thoughts** - shows that iteratively revising a chain of thoughts with information retrieval can significantly improve LLM reasoning and generation in long-horizon generation tasks; the key idea is that each thought step is revised with relevant retrieved information to the task query, the current and past thought steps; Retrieval Augmented Thoughts (RAT) can be applied to different models like GPT-4 and CodeLlama-7B to improve long-horizon generation tasks (e.g., creative writing and embodied task planning); RAT is a zero-shot prompting approach and provides significant improvements to baselines that include zero-shot CoT prompting, vanilla RAG, and other baselines. | [Paper](https://arxiv.org/abs/2403.05313), [Tweet](https://x.com/omarsar0/status/1767251740443746435?s=20) |
-| 3) **LMs Can Teach Themselves to Think Before Speaking** - presents a generalization of STaR, called Quiet-STaR, to enable language models (LMs) to learn to reason in more general and scalable ways; Quiet-STaR enables LMs to generate rationales at each token to explain future text; it proposes a token-wise parallel sampling algorithm that helps improve LM predictions by efficiently generating internal thoughts; the rationale generation is improved using REINFORCE.  | [Paper](https://arxiv.org/abs/2403.09629), [Tweet](https://x.com/omarsar0/status/1768681638009975088?s=20) |
-| 4) **Knowledge Conflicts for LLMs** - an overview of the common issue of knowledge conflict when working with LLMs; the survey paper categorizes these conflicts into context-memory, inter-context, and intra-memory conflict; it also provides insights into causes and potential ways to mitigate these knowledge conflict issues. | [Paper](https://arxiv.org/abs/2403.08319), [Tweet](https://x.com/omarsar0/status/1768288774532858003?s=20) |
-| 5) **Stealing Part of a Production Language Model** - presents the first model-stealing attack that extracts information from production language models like ChatGPT or PaLM-2; shows that it's possible to recover the embedding projection layer of a transformer-based model through typical API access; as an example, the entire projection matrix was extracted from the OpenAI ada and babbage models for under $20.   | [Paper](https://arxiv.org/abs/2403.06634), [Tweet](https://x.com/omarsar0/status/1767641831079067694?s=20) |
-| 6) **Branch-Train-MiX** - proposes mixing expert LLMs into a Mixture-of-Experts LLM as a more compute-efficient approach for training LLMs; it's shown to be more efficient than training a larger generalist LLM or several separate specialized LLMs; the approach, BTX, first trains (in parallel) multiple copies of a seed LLM specialized in different domains (i.e., expert LLMs) and merges them into a single LLM using MoE feed-forward layers, followed by fine-tuning of the overall unified model. | [Paper](https://arxiv.org/abs/2403.07816),  [Tweet](https://x.com/jaseweston/status/1767727740952682667?s=20)  |
-| 7) **LLMs Predict Neuroscience Results** - proposes a benchmark, BrainBench, for evaluating the ability of LLMs to predict neuroscience results; finds that LLMs surpass experts in predicting experimental outcomes; an LLM tuned on neuroscience literature was shown to perform even better. | [Paper](https://arxiv.org/abs/2403.03230),  [Tweet](https://x.com/ProfData/status/1765689739682754824?s=20)  |
-| 8) **C4AI Command-R** - a 35B parameter model, with a context length of 128K, optimized for use cases that include reasoning, summarization, and question answering; Command-R has the capability for multilingual generation evaluated in 10 languages and performant tool use and RAG capabilities; it has been released for research purposes. | [Paper](https://huggingface.co/CohereForAI/c4ai-command-r-v01),  [Tweet](https://x.com/CohereForAI/status/1767275927505977455?s=20)  |
-| 9) **Is Cosine-Similarity Really About Simirity?** - studies embeddings derived from regularized linear models and derive analytically how cosine-similarity can yield arbitrary and meaningless similarities; also finds that for some linear models, the similarities are not even unique and others are controlled by regularization; the authors caution against blindly using cosine similarity and presents considerations and alternatives.  | [Paper](https://arxiv.org/abs/2403.05440), [Tweet](https://x.com/_reachsumit/status/1767045820384477575?s=20)  |
-| 10) **Multimodal LLM Pre-training** - provides a comprehensive overview of methods, analysis, and insights into multimodal LLM pre-training; studies different architecture components and finds that carefully mixing image-caption, interleaved image-text, and text-only data is key for state-of-the-art performance; it also proposes a family of multimodal models up to 30B parameters that achieve SOTA in pre-training metrics and include properties such as enhanced in-context learning, multi-image reasoning, enabling few-shot chain-of-thought prompting. | [Paper](https://arxiv.org/abs/2403.09611), [Tweet](https://x.com/DrJimFan/status/1769053019939967080?s=20) |
+| 1) **SIMA** - a generalist AI agent for 3D virtual environments that follows natural-language instructions in a broad range of 3D virtual environments and video games; SIMA is evaluated across 600 basic skills, spanning navigation, object interaction, and menu use. Language seems to be a huge factor in performance. | [Paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf)|
+| 2) **Retrieval Augmented Thoughts** - shows that iteratively revising a chain of thoughts with information retrieval can significantly improve LLM reasoning and generation in long-horizon generation tasks; the key idea is that each thought step is revised with relevant retrieved information to the task query, the current and past thought steps; Retrieval Augmented Thoughts (RAT) can be applied to different models like GPT-4 and CodeLlama-7B to improve long-horizon generation tasks (e.g., creative writing and embodied task planning); RAT is a zero-shot prompting approach and provides significant improvements to baselines that include zero-shot CoT prompting, vanilla RAG, and other baselines. | [Paper](https://arxiv.org/abs/2403.05313)|
+| 3) **LMs Can Teach Themselves to Think Before Speaking** - presents a generalization of STaR, called Quiet-STaR, to enable language models (LMs) to learn to reason in more general and scalable ways; Quiet-STaR enables LMs to generate rationales at each token to explain future text; it proposes a token-wise parallel sampling algorithm that helps improve LM predictions by efficiently generating internal thoughts; the rationale generation is improved using REINFORCE.  | [Paper](https://arxiv.org/abs/2403.09629)|
+| 4) **Knowledge Conflicts for LLMs** - an overview of the common issue of knowledge conflict when working with LLMs; the survey paper categorizes these conflicts into context-memory, inter-context, and intra-memory conflict; it also provides insights into causes and potential ways to mitigate these knowledge conflict issues. | [Paper](https://arxiv.org/abs/2403.08319)|
+| 5) **Stealing Part of a Production Language Model** - presents the first model-stealing attack that extracts information from production language models like ChatGPT or PaLM-2; shows that it's possible to recover the embedding projection layer of a transformer-based model through typical API access; as an example, the entire projection matrix was extracted from the OpenAI ada and babbage models for under $20.   | [Paper](https://arxiv.org/abs/2403.06634) |
+| 6) **Branch-Train-MiX** - proposes mixing expert LLMs into a Mixture-of-Experts LLM as a more compute-efficient approach for training LLMs; it's shown to be more efficient than training a larger generalist LLM or several separate specialized LLMs; the approach, BTX, first trains (in parallel) multiple copies of a seed LLM specialized in different domains (i.e., expert LLMs) and merges them into a single LLM using MoE feed-forward layers, followed by fine-tuning of the overall unified model. | [Paper](https://arxiv.org/abs/2403.07816) |
+| 7) **LLMs Predict Neuroscience Results** - proposes a benchmark, BrainBench, for evaluating the ability of LLMs to predict neuroscience results; finds that LLMs surpass experts in predicting experimental outcomes; an LLM tuned on neuroscience literature was shown to perform even better. | [Paper](https://arxiv.org/abs/2403.03230) |
+| 8) **C4AI Command-R** - a 35B parameter model, with a context length of 128K, optimized for use cases that include reasoning, summarization, and question answering; Command-R has the capability for multilingual generation evaluated in 10 languages and performant tool use and RAG capabilities; it has been released for research purposes. | [Paper](https://huggingface.co/CohereForAI/c4ai-command-r-v01) |
+| 9) **Is Cosine-Similarity Really About Simirity?** - studies embeddings derived from regularized linear models and derive analytically how cosine-similarity can yield arbitrary and meaningless similarities; also finds that for some linear models, the similarities are not even unique and others are controlled by regularization; the authors caution against blindly using cosine similarity and presents considerations and alternatives.  | [Paper](https://arxiv.org/abs/2403.05440)  |
+| 10) **Multimodal LLM Pre-training** - provides a comprehensive overview of methods, analysis, and insights into multimodal LLM pre-training; studies different architecture components and finds that carefully mixing image-caption, interleaved image-text, and text-only data is key for state-of-the-art performance; it also proposes a family of multimodal models up to 30B parameters that achieve SOTA in pre-training metrics and include properties such as enhanced in-context learning, multi-image reasoning, enabling few-shot chain-of-thought prompting. | [Paper](https://arxiv.org/abs/2403.09611)|
 
-## Top ML Papers of the Week (March 4 - March 10) - 2024
+## Top AI Papers of the Week (March 4 - March 10) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **Claude 3** - consists of a family of three models (Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus); Claude 3 Opus (the strongest model) seems to outperform GPT-4 on common benchmarks like MMLU and HumanEval; Claude 3 capabilities include analysis, forecasting, content creation, code generation, and converting in non-English languages like Spanish, Japanese, and French; 200K context windows supported but can be extended to 1M token to select customers; the models also have strong vision capabilities for processing formats like photos, charts, and graphs; Anthropic claims these models have a more nuanced understanding of requests and make fewer refusals.  | [Paper](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf), [Tweet](https://x.com/AnthropicAI/status/1764653830468428150?s=20) |
-| 2) **Robust Evaluation of Reasoning** - proposes functional benchmarks for the evaluation of the reasoning capabilities of LLMs; finds that there is a reasoning gap with current models from 58.35% to 80.31%; however, the authors also report that those gaps can be reduced with more sophisticated prompting strategies.  | [Paper](https://arxiv.org/abs/2402.19450), [Tweet](https://x.com/_saurabh/status/1763626711407816930?s=20) |
-| 3) **GaLore** - proposes a memory-efficient approach for training LLM through low-rank projection; the training strategy allows full-parameter learning and is more memory-efficient than common low-rank adaptation methods such as LoRA; reduces memory usage by up to 65.5% in optimizer states while maintaining both efficiency and performance for pre-training on LLaMA 1B and 7B architectures. | [Paper](https://arxiv.org/abs/2403.03507), [Tweet](https://x.com/AnimaAnandkumar/status/1765613815146893348?s=20) |
-| 4) **Can LLMs Reason and Plan?** - a new position paper discusses the topic of reasoning and planning for LLMs; here is a summary of the author's conclusion: "To summarize, nothing that I have read, verified, or done gives me any compelling reason to believe that LLMs do reasoning/planning, as normally understood. What they do instead, armed with web-scale training, is a form of universal approximate retrieval, which, as I have argued, can sometimes be mistaken for reasoning capabilities".  | [Paper](https://arxiv.org/abs/2403.04121), [Tweet](https://x.com/omarsar0/status/1766123621326475285?s=20) |
-| 5) **RAG for AI-Generated Content** - provides an overview of RAG used in different generation scenarios like code, image, and audio, including a taxonomy of RAG enhancements with reference to key papers. | [Paper](https://arxiv.org/abs/2402.19473v1), [Tweet](https://x.com/omarsar0/status/1765414854397985175?s=20) |
-| 6) **KnowAgent** - proposes an approach to enhance the planning capabilities of LLMs through explicit action knowledge; uses an action knowledge base and a knowledgeable self-learning phase to guide the model's action generation, mitigate planning hallucination, and enable continuous improvement; outperforms existing baselines and shows the potential of integrating external action knowledge to streamline planning with LLMs and solve complex planning challenges. | [Paper](https://arxiv.org/abs/2403.03101),  [Tweet](https://x.com/omarsar0/status/1765408813467759037?s=20)  |
-| 7) **Sora Overview** - a comprehensive review of Sora and some of the key developments powering this model, including limitations and opportunities of large vision models. | [Paper](https://arxiv.org/abs/2402.17177v2),  [Tweet](https://x.com/omarsar0/status/1765756669659603015?s=20)  |
-| 8) **LLM for Law** - introduces SaulLM-7B, a large language model for the legal domain explicitly designed for legal text comprehension and generation; presents an instructional fine-tuning method that leverages legal datasets to further enhance performance in legal tasks.   | [Paper](https://arxiv.org/abs/2403.03883),  [Tweet](https://x.com/_akhaliq/status/1765614083875738028?s=20)  |
-| 9) **Design2Code** - investigates the use of multimodal LLMs for converting a visual design into code implementation which is key for automating front-end engineering; introduces a benchmark of 484 diverse real-world webpages and a set of evaluation metrics to measure the design-to-code capability; further develops a suite of multimodal prompting methods and show their effectiveness on GPT-4V and Gemini Pro Vision; an open-source fine-tuned Design2Code matches the performance of Gemini Pro Vision, however, GPT-4V performs the best on the task.  | [Paper](https://arxiv.org/abs/2403.03163), [Tweet](https://x.com/_akhaliq/status/1765199160653828385?s=20)  |
-| 10) **TripoSR** - a transformer-based 3D reconstruction model for fast feed-forward 3D generation; it can produce 3D mesh from a single image in under 0.5 seconds; improvement includes better data processing, model design, and training. | [Paper](https://arxiv.org/abs/2403.02151v1), [Tweet](https://x.com/_akhaliq/status/1764841524431392794?s=20) |
+| 1) **Claude 3** - consists of a family of three models (Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus); Claude 3 Opus (the strongest model) seems to outperform GPT-4 on common benchmarks like MMLU and HumanEval; Claude 3 capabilities include analysis, forecasting, content creation, code generation, and converting in non-English languages like Spanish, Japanese, and French; 200K context windows supported but can be extended to 1M token to select customers; the models also have strong vision capabilities for processing formats like photos, charts, and graphs; Anthropic claims these models have a more nuanced understanding of requests and make fewer refusals.  | [Paper](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf)|
+| 2) **Robust Evaluation of Reasoning** - proposes functional benchmarks for the evaluation of the reasoning capabilities of LLMs; finds that there is a reasoning gap with current models from 58.35% to 80.31%; however, the authors also report that those gaps can be reduced with more sophisticated prompting strategies.  | [Paper](https://arxiv.org/abs/2402.19450)|
+| 3) **GaLore** - proposes a memory-efficient approach for training LLM through low-rank projection; the training strategy allows full-parameter learning and is more memory-efficient than common low-rank adaptation methods such as LoRA; reduces memory usage by up to 65.5% in optimizer states while maintaining both efficiency and performance for pre-training on LLaMA 1B and 7B architectures. | [Paper](https://arxiv.org/abs/2403.03507) |
+| 4) **Can LLMs Reason and Plan?** - a new position paper discusses the topic of reasoning and planning for LLMs; here is a summary of the author's conclusion: "To summarize, nothing that I have read, verified, or done gives me any compelling reason to believe that LLMs do reasoning/planning, as normally understood. What they do instead, armed with web-scale training, is a form of universal approximate retrieval, which, as I have argued, can sometimes be mistaken for reasoning capabilities".  | [Paper](https://arxiv.org/abs/2403.04121)|
+| 5) **RAG for AI-Generated Content** - provides an overview of RAG used in different generation scenarios like code, image, and audio, including a taxonomy of RAG enhancements with reference to key papers. | [Paper](https://arxiv.org/abs/2402.19473v1)|
+| 6) **KnowAgent** - proposes an approach to enhance the planning capabilities of LLMs through explicit action knowledge; uses an action knowledge base and a knowledgeable self-learning phase to guide the model's action generation, mitigate planning hallucination, and enable continuous improvement; outperforms existing baselines and shows the potential of integrating external action knowledge to streamline planning with LLMs and solve complex planning challenges. | [Paper](https://arxiv.org/abs/2403.03101)  |
+| 7) **Sora Overview** - a comprehensive review of Sora and some of the key developments powering this model, including limitations and opportunities of large vision models. | [Paper](https://arxiv.org/abs/2402.17177v2) |
+| 8) **LLM for Law** - introduces SaulLM-7B, a large language model for the legal domain explicitly designed for legal text comprehension and generation; presents an instructional fine-tuning method that leverages legal datasets to further enhance performance in legal tasks.   | [Paper](https://arxiv.org/abs/2403.03883)  |
+| 9) **Design2Code** - investigates the use of multimodal LLMs for converting a visual design into code implementation which is key for automating front-end engineering; introduces a benchmark of 484 diverse real-world webpages and a set of evaluation metrics to measure the design-to-code capability; further develops a suite of multimodal prompting methods and show their effectiveness on GPT-4V and Gemini Pro Vision; an open-source fine-tuned Design2Code matches the performance of Gemini Pro Vision, however, GPT-4V performs the best on the task.  | [Paper](https://arxiv.org/abs/2403.03163) |
+| 10) **TripoSR** - a transformer-based 3D reconstruction model for fast feed-forward 3D generation; it can produce 3D mesh from a single image in under 0.5 seconds; improvement includes better data processing, model design, and training. | [Paper](https://arxiv.org/abs/2403.02151v1)|
 
 
 
-## Top ML Papers of the Week (February 26 - March 3) - 2024
+## Top AI Papers of the Week (February 26 - March 3) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **Genie** - a foundation model trained from internet videos and with the ability to generate a variety of action-controllable 2D worlds given an image prompt; Genie has 11B parameters and consists of a spatiotemporal video tokenizer, an autoregressive dynamic model, and a scalable latent action model; the latent action space enables training agents to imitate behaviors from unseen video which is promising for building more generalist agents.   | [Paper](https://arxiv.org/abs/2402.15391), [Tweet](https://x.com/_rockt/status/1762026090262872161?s=20) |
-| 2) **Mistral Large** - a new LLM with strong multilingual, reasoning, maths, and code generation capabilities; features include: 1) 32K tokens context window, 2) native multilingual capacities, 3) strong abilities in reasoning, knowledge, maths, and coding benchmarks, and 4) function calling and JSON format natively supported. | [Paper](https://mistral.ai/news/mistral-large/), [Tweet](https://x.com/omarsar0/status/1762140818654064721?s=20) |
-| 3) **The Era of 1-bit LLMs** - introduces a high-performing and cost-effective 1-bit LLM variant called BitNet b1.58 where every parameter is a ternary {-1, 0, 1}; given the same model size and training tokens, BitNet b1.58 can match the perplexity and task performance of a full precision Transformer LLM (i.e., FP16); the benefits of this 1-bit LLM are significantly better latency, memory, throughout, and energy consumption.  | [Paper](https://arxiv.org/abs/2402.17764), [Tweet](https://x.com/_akhaliq/status/1762729757454618720?s=20) |
+| 1) **Genie** - a foundation model trained from internet videos and with the ability to generate a variety of action-controllable 2D worlds given an image prompt; Genie has 11B parameters and consists of a spatiotemporal video tokenizer, an autoregressive dynamic model, and a scalable latent action model; the latent action space enables training agents to imitate behaviors from unseen video which is promising for building more generalist agents.   | [Paper](https://arxiv.org/abs/2402.15391)|
+| 2) **Mistral Large** - a new LLM with strong multilingual, reasoning, maths, and code generation capabilities; features include: 1) 32K tokens context window, 2) native multilingual capacities, 3) strong abilities in reasoning, knowledge, maths, and coding benchmarks, and 4) function calling and JSON format natively supported. | [Paper](https://mistral.ai/news/mistral-large/)|
+| 3) **The Era of 1-bit LLMs** - introduces a high-performing and cost-effective 1-bit LLM variant called BitNet b1.58 where every parameter is a ternary {-1, 0, 1}; given the same model size and training tokens, BitNet b1.58 can match the perplexity and task performance of a full precision Transformer LLM (i.e., FP16); the benefits of this 1-bit LLM are significantly better latency, memory, throughout, and energy consumption.  | [Paper](https://arxiv.org/abs/2402.17764)|
 | 4) **Dataset for LLMs** - a comprehensive overview (180+ pages) and analysis of LLM datasets.   | [Paper](https://arxiv.org/abs/2402.18041), [Tweet](https://x.com/omarsar0/status/1763233452852134001?s=20) |
 | 5) **LearnAct** - explores open-action learning for language agents through an iterative learning strategy that creates and improves actions using Python functions; on each iteration, the proposed framework (LearnAct) expands the action space and enhances action effectiveness by revising and updating available actions based on execution feedback; the LearnAct framework was tested on Robotic planning and AlfWorld environments; it improves agent performance by 32% in AlfWorld compared to ReAct+Reflexion. | [Paper](https://arxiv.org/abs/2402.15809), [Tweet](https://x.com/omarsar0/status/1762533498492010761?s=20) |
 | 6) **EMO** - a new framework for generating expressive video by utilizing a direct audio-to-video synthesis approach; by leveraging an Audio2Video diffusion model it bypasses the need for intermediate 3D models or facial landmarks; EMO can produce convincing speaking videos and singing videos in various styles while outperforming existing methods in terms of expressiveness and realism. | [Paper](https://arxiv.org/abs/2402.17485),  [Tweet](https://x.com/_akhaliq/status/1762686465777999932?s=20)  |
@@ -182,7 +180,7 @@ Here is the weekly series:
 | 9) **LLMs on Tabular Data** - an overview of LLMs for tabular data tasks including key techniques, metrics, datasets, models, and optimization approaches; it covers limitations and unexplored ideas with insights for future research directions. | [Paper](https://arxiv.org/abs/2402.17944), [Tweet](https://x.com/omarsar0/status/1763187964501254492?s=20)  |
 | 10) **PlanGPT** - shows how to leverage LLMs and combine multiple approaches like retrieval augmentation, fine-tuning, tool usage, and more; the proposed framework is applied to urban and spatial planning but there are a lot of insights and practical tips that apply to other domains.| [Paper](https://arxiv.org/abs/2402.19273), [Tweet](https://x.com/omarsar0/status/1763424166890377691?s=20) |
 
-## Top ML Papers of the Week (February 19 - February 25) - 2024
+## Top AI Papers of the Week (February 19 - February 25) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Stable Diffusion 3** - a suite of image generation models ranging from 800M to 8B parameters; combines diffusion transformer architecture and flow matching for improved performance in multi-subject prompts, image quality, and spelling abilities; technical report to be published soon and linked here. | [Paper](https://stability.ai/news/stable-diffusion-3), [Tweet](https://x.com/StabilityAI/status/1760656767237656820?s=20) |
@@ -196,7 +194,7 @@ Here is the weekly series:
 | 9) **CoT Reasoning without Prompting** - proposes a chain-of-thought (CoT) decoding method to elicit the reasoning capabilities from pre-trained LLMs without explicit prompting; claims to significantly enhance a model’s reasoning capabilities over greedy decoding across reasoning benchmarks; finds that the model's confidence in its final answer increases when CoT is present in its decoding path.  | [Paper](https://arxiv.org/abs/2402.10200), [Tweet](https://x.com/omarsar0/status/1758566808213234017?s=20)  |
 | 10) **OpenCodeInterpreter** - a family of open-source systems for generating, executing, and iteratively refining code; proposes a dataset of 68K multi-turn interactions; integrates execution and human feedback for dynamic code refinement and produces high performance on benchmarks like HumalEval and EvalPlus. | [Paper](https://arxiv.org/abs/2402.14658), [Tweet](https://x.com/xiangyue96/status/1760891516107862104?s=20) |
 
-## Top ML Papers of the Week (February 12 - February 18) - 2024
+## Top AI Papers of the Week (February 12 - February 18) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Sora** - a text-to-video AI model that can create videos of up to a minute of realistic and imaginative scenes given text instructions; it can generate complex scenes with multiple characters, different motion types, and backgrounds, and understand how they relate to each other; other capabilities include creating multiple shots within a single video with persistence across characters and visual style. | [Paper](https://openai.com/research/video-generation-models-as-world-simulators), [Tweet](https://x.com/OpenAI/status/1758192957386342435?s=20) |
@@ -210,7 +208,7 @@ Here is the weekly series:
 | 9) **Survey of LLMs** - reviews three popular families of LLMs (GPT, Llama, PaLM), their characteristics, contributions, and limitations; includes a summary of capabilities and techniques developed to build and augment LLM; it also discusses popular datasets for LLM training, fine-tuning, and evaluation, and LLM evaluation metrics; concludes with open challenges and future research directions.  | [Paper](https://arxiv.org/abs/2402.06196), [Tweet](https://x.com/omarsar0/status/1757049645119799804?s=20)  |
 | 10) **LLM Agents can Hack** - shows that LLM agents can automatically hack websites and perform tasks like SQL injections without human feedback or explicit knowledge about the vulnerability beforehand; this is enabled by an LLM’s tool usage and long context capabilities; shows that GPT-4 is capable of such hacks, including finding vulnerabilities in websites in the wild; open-source models did not show the same capabilities. | [Paper](https://arxiv.org/abs/2402.06664v1), [Tweet](https://x.com/emollick/status/1757937829340967240?s=20) |
 
-## Top ML Papers of the Week (February 5 - February 11) - 2024
+## Top AI Papers of the Week (February 5 - February 11) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Grandmaster-Level Chess Without Search** - trains a 270M parameter transformer model with supervised learning on a dataset of 10 million chess games with up to 15 billion data points; reaches a Lichess blitz Elo of 2895 against humans, and solves a series of challenging chess puzzles; it shows the potential of training at scale for chess and without the need for any domain-specific tweaks or explicit search algorithms. | [Paper](https://arxiv.org/abs/2402.04494), [Tweet](https://x.com/_akhaliq/status/1755466387798020229?s=20) |
@@ -225,7 +223,7 @@ Here is the weekly series:
 | 10) **LLM-based Multi-Agents** - discusses the essential aspects of LLM-based multi-agent systems; it includes a summary of recent applications for problem-solving and word simulation; it also discusses datasets, benchmarks, challenges, and future opportunities to encourage further research and development from researchers and practitioners. | [Paper](https://arxiv.org/abs/2402.01680), [Tweet](https://x.com/omarsar0/status/1754710117734375429?s=20) |
 
 
-## Top ML Papers of the Week (January 29 - February 4) - 2024
+## Top AI Papers of the Week (January 29 - February 4) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **OLMo** - introduces Open Language Model (OLMo), a 7B parameter model; it includes open training code, open data, full model weights, evaluation code, and fine-tuning code; it shows strong performance on many generative tasks; there is also a smaller version of it, OLMo 1B. | [Paper](https://arxiv.org/abs/2402.00838), [Tweet](https://x.com/omarsar0/status/1753080417530318872?s=20) |
@@ -240,7 +238,7 @@ Here is the weekly series:
 | 10) **SliceGPT** - a new LLM compression technique that proposes a post-training sparsification scheme that replaces each weight matrix with a smaller dense matrix; helps reduce the embedding dimension of the network and can remove up to 20% of model parameters for Llama2-70B and Phi-2 models while retaining most of the zero-shot performance of the dense models. | [Paper](https://arxiv.org/abs/2401.15024v1), [Tweet](https://x.com/_akhaliq/status/1751796334531592496?s=20) |
 
 
-## Top ML Papers of the Week (January 22 - January 28) - 2024
+## Top AI Papers of the Week (January 22 - January 28) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Depth Anything** - a robust monocular depth estimation solution that can deal with any images under any circumstance; automatically annotates large-scale unlabeled data (~62M) which helps to reduce generalization error; proposes effective strategies to leverage the power of the large-scale unlabeled data; besides generalization ability, it established new state-of-the-art through fine-tuning and even results in an enhanced depth-conditioned ControlNet. | [Paper](https://arxiv.org/abs/2401.10891v1), [Tweet](https://x.com/_akhaliq/status/1749284669936275463?s=20) |
@@ -254,7 +252,7 @@ Here is the weekly series:
 | 9) **Medusa** - a simple framework for LLM inference acceleration using multiple decoding heads that predict multiple subsequent tokens in parallel; parallelization substantially reduces the number of decoding steps; it can achieve over 2.2x speedup without compromising generation quality, while Medusa-2 further improves the speedup to 2.3-3.6x.  | [Paper](https://arxiv.org/abs/2401.10774v1), [Tweet](https://x.com/jiayq/status/1749461664393810350?s=20)  |
 | 10) **AgentBoard** - a comprehensive benchmark with an open-source evaluation framework to perform analytical evaluation of LLM agents; helps to assess the capabilities and limitations of LLM agents and demystifies agent behaviors which leads to building stronger and robust LLM agents. | [Paper](https://arxiv.org/abs/2401.13178v1), [Tweet](https://x.com/ma_chang_nlp/status/1750369056539218082?s=20) |
 
-## Top ML Papers of the Week (January 15 - January 21) - 2024
+## Top AI Papers of the Week (January 15 - January 21) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **AlphaGeometry** - an AI system that acts as a theorem prover that can solve Olympiad geometry problems without human demonstrations; this system is trained on synthetic data involving millions of theorems and proofs across different levels of complexity; the data is used to train a neural language model that can solve olympiad-level problems and approaches the performance of an average International Mathematical Olympiad (IMO) gold medallist. | [Paper](https://www.nature.com/articles/s41586-023-06747-5), [Tweet](https://x.com/GoogleDeepMind/status/1747651817461125352?s=20) |
@@ -268,7 +266,7 @@ Here is the weekly series:
 | 9) **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks** - suggests that language models often generalize well from easy to hard data, i.e., easy-to-hard generalization; it argues that it can be better to train on easy data as opposed to hard data, even when the emphasis is on improving performance on hard data, and suggests that the scalable oversight problem may be easier than previously thought. | [Paper](https://arxiv.org/abs/2401.06751), [Tweet](https://x.com/peterbhase/status/1747301128683839998?s=20)  |
 | 10) **MoE-Mamba** -  an approach to efficiently scale LLMs by combining state space models (SSMs) with Mixture of Experts (MoE); MoE-Mamba, outperforms both Mamba and Transformer-MoE; it reaches the same performance as Mamba in 2.2x less training steps while preserving the inference performance gains of Mamba against the Transformer. | [Paper](https://arxiv.org/abs/2401.04081), [Tweet](https://x.com/arankomatsuzaki/status/1744552215946100969?s=20) |
 
-## Top ML Papers of the Week (January 8 - January 14) - 2024
+## Top AI Papers of the Week (January 8 - January 14) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **InseRF** - a method for text-driven generative object insertion in the Neural 3D scenes; it enables users to provide textual descriptions and a 2D bounding box in a reference viewpoint to generate new objects in 3D scenes; InseRF is also capable of controllable and 3D-consistent object insertion without requiring explicit 3D information as input. | [Paper](https://arxiv.org/abs/2401.05335), [Tweet](https://x.com/_akhaliq/status/1745293576794255757?s=20) |
@@ -282,7 +280,7 @@ Here is the weekly series:
 | 9) **Quantifying LLM’s Sensitivity to Spurious Features in Prompt Design** - finds that widely used open-source LLMs are extremely sensitive to prompt formatting in few-shot settings; subtle changes in prompt formatting using a Llama 2 13B model can result in a performance difference of up to 76 accuracy points. | [Paper](https://arxiv.org/abs/2310.11324), [Tweet](https://x.com/melaniesclar/status/1745557109419458695?s=20)  |
 | 10) **Adversarial Machine Learning** - a comprehensive survey that covers the current state of adversarial ML with a proper taxonomy of concepts, discussions, adversarial methods, mitigation tactics, and remaining challenges. | [Paper](https://csrc.nist.gov/pubs/ai/100/2/e2023/final), [Tweet](https://x.com/omarsar0/status/1745819927695540671?s=20) |
 
-## Top ML Papers of the Week (January 1 - January 7) - 2024
+## Top AI Papers of the Week (January 1 - January 7) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Mobile ALOHA** - proposes a system that learns bimanual mobile manipulation with low-cost whole-body teleoperation; it first collects high-quality demonstrations and then performs supervised behavior cloning; finds that co-training with existing ALOHA datasets increases performance on complex mobile manipulation tasks such as sauteing and serving a piece of shrimp, opening a two-door wall cabinet to store heavy cooking pots while keeping the budget under $32K | [Paper](https://mobile-aloha.github.io/), [Tweet](https://x.com/zipengfu/status/1742973258528612724?s=20) |
@@ -297,7 +295,7 @@ Here is the weekly series:
 | 10) **Instruct-Imagen** - proposes an image generation model that tackles heterogeneous image generation tasks and generalizes across unseen tasks; it first enhances the model’s ability to ground its generation on external multimodal context and then fine-tunes on image generation tasks with multimodal instructions | [Paper](https://arxiv.org/abs/2401.01952), [Tweet](https://x.com/_akhaliq/status/1743108118630818039?s=20) |
 
 ---
-## Top ML Papers of the Week (December 25 - December 31)
+## Top AI Papers of the Week (December 25 - December 31)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **CogAgent** - presents an 18 billion parameter visual language model specializing in GUI understanding and navigation; supports high-resolution inputs (1120x1120) and shows abilities in tasks such as visual Q&A, visual grounding, and GUI Agent; achieves state of the art on 5 text-rich and 4 general VQA benchmarks. | [Paper](https://arxiv.org/abs/2312.08914), [Tweet](https://x.com/cenyk1230/status/1739916469272789222?s=20) |
@@ -312,7 +310,7 @@ Here is the weekly series:
 | 10) **Gemini vs GPT-4V** - provides a comprehensive preliminary comparison and combination of vision-language models like Gemini and GPT-4V through several qualitative cases; finds that GPT-4V is precise and succinct in responses, while Gemini excels in providing detailed, expansive answers accompanied by relevant imagery and links.  | [Paper](https://arxiv.org/abs/2312.15011v1), [Tweet](https://x.com/omarsar0/status/1741177994377330895?s=20) |
 
 ---
-## Top ML Papers of the Week (December 18 - December 24)
+## Top AI Papers of the Week (December 18 - December 24)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Gemini’s Language Abilities** - provides an impartial and reproducible study comparing several popular models like Gemini, GPT, and Mixtral; Gemini Pro achieves comparable but slightly lower accuracy than the current version of GPT 3.5 Turbo; Gemini and GPT were better than Mixtral. | [Paper](https://arxiv.org/abs/2312.11444), [Tweet](https://x.com/gneubig/status/1737108966931673191?s=20)|
@@ -327,7 +325,7 @@ Here is the weekly series:
 | 10) **Findings of the BabyLLM Challenge** - presents results for a new challenge that involves sample-efficient pretraining on a developmentally plausible corpus; the winning submission, which uses flashy LTG BERT, beat Llama 2 70B on 3/4 evals; other approaches that saw good results included data preprocessing or training on shorter context.  | [Paper](https://aclanthology.org/volumes/2023.conll-babylm/), [Tweet](https://x.com/a_stadt/status/1737849248560066794?s=20)_|
 
 ---
-## Top ML Papers of the Week (December 11 - December 17)
+## Top AI Papers of the Week (December 11 - December 17)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **LLMs for Discoveries in Mathematical Sciences** - uses LLMs to search for new solutions in mathematics & computer science; proposes FunSearch which combines a pre-trained LLM with a systematic evaluator and iterates over them to evolve low-scoring programs into high-scoring ones discovering new knowledge; one of the key findings in this work is that safeguarding against LLM hallucinations is important to produce mathematical discoveries and other real-world problems. | [Paper](https://www.nature.com/articles/s41586-023-06924-6), [Tweet](https://x.com/GoogleDeepMind/status/1735332722208284797?s=20) |
@@ -342,7 +340,7 @@ Here is the weekly series:
 | 10) **Quip** - compresses trained model weights into a lower precision format to reduce memory requirements; the approach combines lattice codebooks with incoherence processing to create 2 bit quantized models; significantly closes the gap between 2 bit quantized LLMs and unquantized 16 bit models. | [Paper](https://cornell-relaxml.github.io/quip-sharp/), [Tweet](https://x.com/tsengalb99/status/1733222467953422702?s=20) |
 
 ---
-## Top ML Papers of the Week (December 4 - December 10)
+## Top AI Papers of the Week (December 4 - December 10)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Gemini** - a series of multimodal models with multimodal reasoning capabilities across text, images, video, audio, and code; claims to outperform human experts on MMLU, a popular benchmark to test the knowledge and problem-solving abilities of AI models; capabilities reported include multimodality, multilinguality, factuality, summarization, math/science, long-context, reasoning, and more. | [Paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf), [Tweet](https://x.com/omarsar0/status/1732434324291563831?s=20) |
@@ -357,7 +355,7 @@ Here is the weekly series:
 | 10)  **The Efficiency Spectrum of LLMs** - a comprehensive review of algorithmic advancements aimed at improving LLM efficiency; covers various topics related to efficiency, including scaling laws, data utilization, architectural innovations, training and tuning strategies, and inference techniques. | [Paper](https://arxiv.org/abs/2312.00678), [Tweet](https://x.com/omarsar0/status/1731696419457606048?s=20)  |
 
 ---
-## Top ML Papers of the Week (November 27 - December 3)
+## Top AI Papers of the Week (November 27 - December 3)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **GNoME** - a new AI system for material design that finds 2.2 million new crystals, including 380,000 stable materials; presents a new deep learning tool that increases the speed and efficiency of discovery by predicting the stability of new materials. | [Paper](https://www.nature.com/articles/s41586-023-06735-9), [Tweet](https://x.com/demishassabis/status/1729995611443769823?s=20) |
@@ -372,7 +370,7 @@ Here is the weekly series:
 | 10) **Translatotron 3** - proposes an unsupervised approach to speech-to-speech translation that can learn from monolingual data alone; combines masked autoencoder, unsupervised embedding mapping, and back-translation; results show that the model outperforms a baseline cascade system and showcases its capability to retain para-/non-linguistic such as pauses, speaking rates, and speaker identity. | [Paper](https://arxiv.org/abs/2305.17547), [Tweet](https://x.com/GoogleAI/status/1730654297350959413?s=20) |
 
 ---
-## Top ML Papers of the Week (November 20 - November 26)
+## Top AI Papers of the Week (November 20 - November 26)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **System 2 Attention** - leverages the reasoning and instruction following capabilities of LLMs to decide what to attend to; it regenerates input context to only include relevant portions before attending to the regenerated context to elicit the final response from the model; increases factuality and outperforms standard attention-based LLMs on tasks such as QA and math world problems. | [Paper](https://arxiv.org/abs/2311.11829), [Tweet](https://x.com/jaseweston/status/1726784511357157618?s=20) |
@@ -387,7 +385,7 @@ Here is the weekly series:
 | 10) **TÜLU 2** - presents a suite of improved TÜLU models for advancing the understanding and best practices of adapting pretrained language models to downstream tasks and user preferences; TÜLU 2 suite achieves state-of-the-art performance among open models and matches or exceeds the performance of GPT-3.5-turbo-0301 on several benchmarks. | [Paper](https://arxiv.org/abs/2311.10702), [Tweet](https://x.com/natolambert/status/1727350301131518454?s=20) |
 
 ---
-## Top ML Papers of the Week (November 13 - November 19)
+## Top AI Papers of the Week (November 13 - November 19)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Emu Video and Emu Edit** - present new models for controlled image editing and text-to-video generation based on diffusion models; Emu Video can generate high-quality video by using text-only, image-only, or combined text and image inputs; Emu Edit enables free-form editing through text instructions. | [Paper](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/), [Tweet](https://x.com/AIatMeta/status/1725184026154349007?s=20) |
@@ -403,7 +401,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (November 6 - November 12)
+## Top AI Papers of the Week (November 6 - November 12)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Links**                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -420,7 +418,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (October 30 - November 5)
+## Top AI Papers of the Week (October 30 - November 5)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Links**                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -437,7 +435,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (October 23 - October 29)
+## Top AI Papers of the Week (October 23 - October 29)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                     | **Links**                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -454,7 +452,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (October 16 - October 22)
+## Top AI Papers of the Week (October 16 - October 22)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                 | **Links**                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -471,7 +469,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (October 9 - October 15)
+## Top AI Papers of the Week (October 9 - October 15)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Links**                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -488,7 +486,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (October 2 - October 8)
+## Top AI Papers of the Week (October 2 - October 8)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Links**                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -505,7 +503,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (September 25 - October 1)
+## Top AI Papers of the Week (September 25 - October 1)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                | **Links**                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -522,7 +520,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (September 18 - September 24)
+## Top AI Papers of the Week (September 18 - September 24)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                             | **Links**                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -539,7 +537,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (September 11 - September 17)
+## Top AI Papers of the Week (September 11 - September 17)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                | **Links**                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -556,7 +554,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (September 4 - September 10)
+## Top AI Papers of the Week (September 4 - September 10)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Links**                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -573,7 +571,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (August 28 - September 3)
+## Top AI Papers of the Week (August 28 - September 3)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                         | **Links**                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -590,7 +588,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (August 21 - August 27)
+## Top AI Papers of the Week (August 21 - August 27)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                          | **Links**                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -607,7 +605,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (August 14 - August 20)
+## Top AI Papers of the Week (August 14 - August 20)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Links**                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -624,7 +622,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (August 7 - August 13)
+## Top AI Papers of the Week (August 7 - August 13)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                              | **Links**                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -641,7 +639,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (July 31 - August 6)
+## Top AI Papers of the Week (July 31 - August 6)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                    | **Links**                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
@@ -658,7 +656,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (July 24 - July 30)
+## Top AI Papers of the Week (July 24 - July 30)
 
 | **Paper**                                                                                                                                                                                                                                                                                         | **Links**                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -675,7 +673,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (July 17 - July 23)
+## Top AI Papers of the Week (July 17 - July 23)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                     | **Links**                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -692,7 +690,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (July 10 - July 16)
+## Top AI Papers of the Week (July 10 - July 16)
 
 | **Paper**                                                                                                                                                                                                                                                                                                | **Links**                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -709,7 +707,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (July 3 - July 9)
+## Top AI Papers of the Week (July 3 - July 9)
 
 | **Paper**                                                                                                                                                                                                                                                                                                  | **Links**                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -726,7 +724,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (June 26 - July 2)
+## Top AI Papers of the Week (June 26 - July 2)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                       | **Links**                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -743,7 +741,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (June 19 - June 25)
+## Top AI Papers of the Week (June 19 - June 25)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                     | **Links**                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -760,7 +758,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (June 12 - June 18)
+## Top AI Papers of the Week (June 12 - June 18)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                 | **Links**                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -777,7 +775,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (June 5 - June 11)
+## Top AI Papers of the Week (June 5 - June 11)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                      | **Links**                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -794,7 +792,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (May 29-June 4)
+## Top AI Papers of the Week (May 29-June 4)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                      | **Links**                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -811,7 +809,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (May 22-28)
+## Top AI Papers of the Week (May 22-28)
 
 | **Paper**                                                                                                                                                                                                                                                                                                       | **Links**                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -828,7 +826,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (May 15-21)
+## Top AI Papers of the Week (May 15-21)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Links**                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -845,7 +843,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (May 8-14)
+## Top AI Papers of the Week (May 8-14)
 
 | **Paper**                                                                                                                                                                                                                                                                                                               | **Links**                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -862,7 +860,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (May 1-7)
+## Top AI Papers of the Week (May 1-7)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                       | **Links**                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -879,7 +877,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (April 24 - April 30)
+## Top AI Papers of the Week (April 24 - April 30)
 
 | **Paper**                                                                                                                                                                                                                                                                                                           | **Links**                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -896,7 +894,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (April 17 - April 23)
+## Top AI Papers of the Week (April 17 - April 23)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Links**                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -913,7 +911,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (April 10 - April 16)
+## Top AI Papers of the Week (April 10 - April 16)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                               | **Links**                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -928,7 +926,7 @@ Here is the weekly series:
 | 9) **Teaching Large Language Models to Self-Debug** - proposes an approach that teaches LLMs to debug their predicted program via few-shot demonstrations; this allows a model to identify its mistakes by explaining generated code in natural language; achieves SoTA on several code generation tasks like text-to-SQL generation.                                                   | [Paper](https://arxiv.org/abs/2304.05128), [Tweet](https://twitter.com/dair_ai/status/1647613842300497924?s=20)  |
 | 10) **Segment Everything Everywhere All at Once** - a promptable, interactive model for various segmentation tasks that yields competitive performance on open-vocabulary and interactive segmentation benchmarks.                                                                                                                                                                      | [Paper](https://arxiv.org/abs/2304.06718), [Tweet](https://twitter.com/dair_ai/status/1647613844087361537?s=20)  |
 
-## Top ML Papers of the Week (April 3 - April 9)
+## Top AI Papers of the Week (April 3 - April 9)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                              | **Links**                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -945,7 +943,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Mar 27 - April 2)
+## Top AI Papers of the Week (Mar 27 - April 2)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                                                      | **Links**                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -962,7 +960,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Mar 20-Mar 26)
+## Top AI Papers of the Week (Mar 20-Mar 26)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                                    | **Links**                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -979,7 +977,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Mar 13-Mar 19)
+## Top AI Papers of the Week (Mar 13-Mar 19)
 
 | **Paper**                                                                                                                                                                                                                                                            | **Links**                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -996,7 +994,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Mar 6-Mar 12)
+## Top AI Papers of the Week (Mar 6-Mar 12)
 
 | **Paper**                                                                                                                                                                                                                                                                             | **Links**                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1013,7 +1011,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Feb 27-Mar 5)
+## Top AI Papers of the Week (Feb 27-Mar 5)
 
 | **Paper**                                                                                                                                                                                                                                                                                                                | **Links**                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1030,7 +1028,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Feb 20-26)
+## Top AI Papers of the Week (Feb 20-26)
 
 | **Paper**                                                                                                                                                                                                                                                                                                | **Links**                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1047,7 +1045,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Feb 13 - 19)
+## Top AI Papers of the Week (Feb 13 - 19)
 
 | **Paper**                                                                                                                                                                                                                                                            | **Links**                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1064,7 +1062,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Feb 6 - 12)
+## Top AI Papers of the Week (Feb 6 - 12)
 
 | **Paper**                                                                                                                                                                                                               | **Links**                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1081,7 +1079,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Jan 30-Feb 5)
+## Top AI Papers of the Week (Jan 30-Feb 5)
 
 | **Paper**                                                                                                                                                                                                                                      | **Links**                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1098,7 +1096,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Jan 23-29)
+## Top AI Papers of the Week (Jan 23-29)
 
 | **Paper**                                                                                                                                                                                                                                                            | **Links**                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1115,7 +1113,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Jan 16-22)
+## Top AI Papers of the Week (Jan 16-22)
 
 | **Paper**                                                                                                                                                                                                                        | **Links**                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1132,7 +1130,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Jan 9-15)
+## Top AI Papers of the Week (Jan 9-15)
 
 | **Paper**                                                                                                                                                                                                                                                                                                           | **Links**                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1149,7 +1147,7 @@ Here is the weekly series:
 
 ---
 
-## Top ML Papers of the Week (Jan 1-8)
+## Top AI Papers of the Week (Jan 1-8)
 
 | **Paper**                                                                                                                                                                                                                                                                                                         | **Links**                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1165,9 +1163,3 @@ Here is the weekly series:
 | 10) **A Succinct Summary of Reinforcement Learning** - a nice overview of some important ideas in RL.                                                                                                                                                                                                             | [Paper](https://arxiv.org/abs/2301.01379), [Tweet](https://twitter.com/dair_ai/status/1612153114773053446?s=20&t=ChwZWzSmoRlZKnD54fsV6w)                                                                                                       |
 
 ---
-
-We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
-
-[Subscribe to our NLP Newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends.
-
-Join our [Discord](https://discord.gg/FzNtjEK9dg).
