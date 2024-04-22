@@ -89,6 +89,8 @@ Here is the weekly series:
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **CTRL-Adapter** - An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model;  we introduce Ctrl-Adapter, an efficient and versatile framework that adds diverse controls to any image/video diffusion models, by adapting pretrained ControlNets (and improving temporal alignment for videos). Ctrl-Adapter provides diverse capabilities including image control, video control, video control with sparse frames, multi-condition control, compatibility with different backbones, adaptation to unseen control conditions, and video editing. In Ctrl-Adapter, we train adapter layers that fuse pretrained ControlNet features to different image/video diffusion models, while keeping the parameters of the ControlNets and the diffusion models frozen. | [Paper](https://arxiv.org/abs/2404.09967), [Code](https://github.com/HL-hanlin/Ctrl-Adapter)|
+| 2) **TransformerFAM** -Feedback attention is working memory.We propose Feedback Attention Memory (FAM), a novel Transformer architecture that leverages a feedback loop to enable the network to attend to its own latent representations. This design fosters the emergence of working memory within the Transformer, allowing it to process indefinitely long sequences. TransformerFAM requires no additional weights, enabling seamless integration with pre-trained models. | [Paper](https://arxiv.org/abs/2404.09173)|
+
 
 
 
