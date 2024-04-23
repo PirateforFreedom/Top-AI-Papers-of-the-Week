@@ -94,7 +94,7 @@ Here is the weekly series:
 
 
 
-## Top ML Papers of the Week (April 15 - April 21) - 2024
+## Top AI Papers of the Week (April 15 - April 21) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Llama 3** - a family of LLMs that include 8B and 70B pretrained and instruction-tuned models; Llama 3 8B outperforms Gemma 7B and Mistral 7B Instruct; Llama 3 70 broadly outperforms Gemini Pro 1.5 and Claude 3 Sonnet.  | [Paper](https://ai.meta.com/blog/meta-llama-3/?utm_source=twitter&utm_medium=organic_social&utm_content=video&utm_campaign=llama3), [Tweet](https://x.com/AIatMeta/status/1780997403979735440) |
