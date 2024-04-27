@@ -95,6 +95,11 @@ Here is the weekly series:
 | 5) **A Survey on EMERGING AI AGENT ARCHITECTURES** - This survey paper examines the recent advancements in AI agent implementations, with a focus on their ability to achieve complex goals that require enhanced reasoning, planning, and tool execution capabilities.. | [Paper](https://arxiv.org/abs/2404.11584)|
 | 6) **A Survey on Retrieval-Augmented Text Generation** -  this paper organizes the RAG paradigm into four categories: pre-retrieval, retrieval, post-retrieval, and generation, offering a detailed perspective from the retrieval viewpoint. It outlines RAG's evolution and discusses the field's progression through the analysis of significant studies.  |  [Paper](https://arxiv.org/abs/2404.10981)|
 | 7) **Dynamic Typography: Bringing Text to Life via Video Diffusion Prior** - We present an automated text animation scheme, termed "Dynamic Typography", which combines two challenging tasks. It deforms letters to convey semantic meaning and infuses them with vibrant movements based on user prompts. Our technique harnesses vector graphics representations and an end-to-end optimization-based framework. This framework employs neural displacement fields to convert letters into base shapes and applies per-frame motion, encouraging coherence with the intended textual concept. Shape preservation techniques and perceptual loss regularization are employed to maintain legibility and structural integrity throughout the animation process. | [Paper](https://arxiv.org/abs/2404.11614),  [code](https://github.com/zliucz/animate-your-word?tab=readme-ov-file)  |
+| 8) **Phi-3 Technical Report** - We introduce phi-3-mini, a 3.8 billion parameter language model trained on 3.3 trillion tokens, whose overall performance, as measured by both academic benchmarks and internal testing, rivals that of models such as Mixtral 8x7B and GPT-3.5 (e.g., phi-3-mini achieves 69% on MMLU and 8.38 on MT-bench), despite being small enough to be deployed on a phone.. | [Paper](https://arxiv.org/abs/2404.14219) |
+
+
+
+
 
 
 
