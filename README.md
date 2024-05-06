@@ -87,7 +87,7 @@ Here is the weekly series:
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Capabilities of Gemini Models in Medicine** - we introduce Med-Gemini, a family of highly capable multimodal models that are specialized in medicine with the ability to seamlessly integrate the use of web search, and that can be efficiently tailored to novel modalities using custom encoders. | [Paper](https://arxiv.org/abs/2404.18416),|
-
+| 2) **Multi-token Prediction** -Large language models such as GPT and Llama are trained with a next-token prediction loss. In this work, we suggest that training language models to predict multiple future tokens at once results in higher sample efficiency. More specifically, at each position in the training corpus, we ask the model to predict the following n tokens using n independent output heads, operating on top of a shared model trunk. . | [Paper](https://arxiv.org/abs/2404.19737)|
 
 
 
