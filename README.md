@@ -89,6 +89,10 @@ Here is the weekly series:
 | 1) **Capabilities of Gemini Models in Medicine** - we introduce Med-Gemini, a family of highly capable multimodal models that are specialized in medicine with the ability to seamlessly integrate the use of web search, and that can be efficiently tailored to novel modalities using custom encoders. | [Paper](https://arxiv.org/abs/2404.18416),|
 | 2) **Multi-token Prediction** -Large language models such as GPT and Llama are trained with a next-token prediction loss. In this work, we suggest that training language models to predict multiple future tokens at once results in higher sample efficiency. More specifically, at each position in the training corpus, we ask the model to predict the following n tokens using n independent output heads, operating on top of a shared model trunk. . | [Paper](https://arxiv.org/abs/2404.19737)|
 | 3) **SUQL** - Conversational Search over Structured and Unstructured Data with Large Language Models.  | [Paper](https://arxiv.org/abs/2311.09818), [code](https://github.com/stanford-oval/suql) |
+| 4) **Octopus v4 Graph of language models** -This paper introduces a novel approach that employs functional tokens to integrate multiple open-source models, each optimized for particular tasks. | [Paper](https://arxiv.org/abs/2404.19296), [code](https://github.com/NexaAI/octopus-v4) |
+
+
+
 
 
 
