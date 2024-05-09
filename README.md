@@ -90,7 +90,7 @@ Here is the weekly series:
 | 2) **Multi-token Prediction** -Large language models such as GPT and Llama are trained with a next-token prediction loss. In this work, we suggest that training language models to predict multiple future tokens at once results in higher sample efficiency. More specifically, at each position in the training corpus, we ask the model to predict the following n tokens using n independent output heads, operating on top of a shared model trunk. . | [Paper](https://arxiv.org/abs/2404.19737)|
 | 3) **SUQL** - Conversational Search over Structured and Unstructured Data with Large Language Models.  | [Paper](https://arxiv.org/abs/2311.09818), [code](https://github.com/stanford-oval/suql) |
 | 4) **Octopus v4 Graph of language models** -This paper introduces a novel approach that employs functional tokens to integrate multiple open-source models, each optimized for particular tasks. | [Paper](https://arxiv.org/abs/2404.19296), [code](https://github.com/NexaAI/octopus-v4) |
-
+| 5) **Iterative Reasoning Preference Optimization** - terative preference optimization methods have recently been shown to perform well for general instruction tuning tasks, but typically make little improvement on reasoning tasks (Yuan et al., 2024, Chen et al., 2024). In this work we develop an iterative approach that optimizes the preference between competing generated Chain-of-Thought (CoT) candidates by optimizing for winning vs. losing reasoning steps that lead to the correct answer. We train using a modified DPO loss (Rafailov et al., 2023) with an additional negative log-likelihood term, which we find to be crucial. We show reasoning improves across repeated iterations of this scheme..  | [Paper](https://arxiv.org/abs/2404.19733),  |
 
 
 
