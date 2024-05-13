@@ -8,6 +8,8 @@ Here is the weekly series:
 ## 2024
 
 
+
+- [Top AI Papers of the Week (May 13 - May 19)](./#top-AI-papers-of-the-week-may-13---may-19---2024)
 - [Top AI Papers of the Week (May 6 - May 12)](./#top-AI-papers-of-the-week-may-6---may-12---2024)
 - [Top AI Papers of the Week (April 29 - May 5)](./#top-AI-papers-of-the-week-april-29---may-5---2024)
 - [Top AI Papers of the Week (April 22 - April 28)](./#top-AI-papers-of-the-week-april-22---april-28---2024)
@@ -83,6 +85,13 @@ Here is the weekly series:
 - [Top AI Papers of the Week (Jan 9-15)](./#top-AI-papers-of-the-week-jan-9-15)
 - [Top AI Papers of the Week (Jan 1-8)](./#top-AI-papers-of-the-week-jan-1-8)
 
+## Top AI Papers of the Week (May 13 - May 19) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Replacing Judges with Juries** -  We propose instead to evaluate models using a Panel of LLm evaluators (PoLL). Across three distinct judge settings and spanning six different datasets, we find that using a PoLL composed of a larger number of smaller models outperforms a single large judge, exhibits less intra-model bias due to its composition of disjoint model families, and does so while being over seven times less expensive.. | [Paper](https://arxiv.org/abs/2404.18796),|
+
+
+
 ## Top AI Papers of the Week (May 6 - May 12) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
@@ -92,7 +101,6 @@ Here is the weekly series:
 | 4) **Octopus v4 Graph of language models** -This paper introduces a novel approach that employs functional tokens to integrate multiple open-source models, each optimized for particular tasks. | [Paper](https://arxiv.org/abs/2404.19296), [code](https://github.com/NexaAI/octopus-v4) |
 | 5) **Iterative Reasoning Preference Optimization** - terative preference optimization methods have recently been shown to perform well for general instruction tuning tasks, but typically make little improvement on reasoning tasks (Yuan et al., 2024, Chen et al., 2024). In this work we develop an iterative approach that optimizes the preference between competing generated Chain-of-Thought (CoT) candidates by optimizing for winning vs. losing reasoning steps that lead to the correct answer. We train using a modified DPO loss (Rafailov et al., 2023) with an additional negative log-likelihood term, which we find to be crucial. We show reasoning improves across repeated iterations of this scheme..  | [Paper](https://arxiv.org/abs/2404.19733),  |
 | 6) **KAN: Kolmogorov-Arnold Networks** - Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs). While MLPs have fixed activation functions on nodes ("neurons"), KANs have learnable activation functions on edges ("weights"). KANs have no linear weights at all -- every weight parameter is replaced by a univariate function parametrized as a spline.. | [Paper](https://arxiv.org/abs/2404.19756), |
-
 
 
 
