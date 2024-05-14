@@ -89,6 +89,8 @@ Here is the weekly series:
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Replacing Judges with Juries** -  We propose instead to evaluate models using a Panel of LLm evaluators (PoLL). Across three distinct judge settings and spanning six different datasets, we find that using a PoLL composed of a larger number of smaller models outperforms a single large judge, exhibits less intra-model bias due to its composition of disjoint model families, and does so while being over seven times less expensive.. | [Paper](https://arxiv.org/abs/2404.18796),|
+| 2) **A Primer on the Inner Workings of Transformer-based Language Models** -This primer provides a concise technical introduction to the current techniques used to interpret the inner workings of Transformer-based language models, focusing on the generative decoder-only architecture. We conclude by presenting a comprehensive overview of the known internal mechanisms implemented by these models, uncovering connections across popular approaches and active research directions in this area. . | [Paper](https://arxiv.org/abs/2405.00208)|
+
 
 
 
