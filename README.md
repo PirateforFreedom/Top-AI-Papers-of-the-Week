@@ -92,6 +92,9 @@ Here is the weekly series:
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Automating the Enterprise with Foundation Models** - To study these capabilities we propose ECLAIR, a system to automate enterprise workflows with minimal human supervision. We conduct initial experiments showing that multimodal FMs can address the limitations of traditional RPA with (1) near-human-level understanding of workflows (93% accuracy on a workflow understanding task) and (2) instant set-up with minimal technical barrier (based solely on a natural language description of a workflow, ECLAIR achieves end-to-end completion rates of 40%)..  | [Paper](https://arxiv.org/abs/2405.03710),|
+| 2) **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?** -Taken together, our results highlight the risk in introducing new factual knowledge through fine-tuning, and support the view that large language models mostly acquire factual knowledge through pre-training, whereas fine-tuning teaches them to use it more efficiently. . | [Paper](https://arxiv.org/abs/2405.05904)|
+
+
 
 
 ## Top AI Papers of the Week (May 20 - May 26) - 2024
