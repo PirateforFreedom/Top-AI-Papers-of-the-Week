@@ -8,6 +8,7 @@ Here is the weekly series:
 ## 2024
 
 
+- [Top AI Papers of the Week (May 27 - June 2)](./#top-AI-papers-of-the-week-may-27---june-2---2024)
 - [Top AI Papers of the Week (May 20 - May 26)](./#top-AI-papers-of-the-week-may-20---may-26---2024)
 - [Top AI Papers of the Week (May 13 - May 19)](./#top-AI-papers-of-the-week-may-13---may-19---2024)
 - [Top AI Papers of the Week (May 6 - May 12)](./#top-AI-papers-of-the-week-may-6---may-12---2024)
@@ -87,7 +88,10 @@ Here is the weekly series:
 
 
 
-
+## Top AI Papers of the Week (May 27 - June 2) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Automating the Enterprise with Foundation Models** - To study these capabilities we propose ECLAIR, a system to automate enterprise workflows with minimal human supervision. We conduct initial experiments showing that multimodal FMs can address the limitations of traditional RPA with (1) near-human-level understanding of workflows (93% accuracy on a workflow understanding task) and (2) instant set-up with minimal technical barrier (based solely on a natural language description of a workflow, ECLAIR achieves end-to-end completion rates of 40%)..  | [Paper](https://arxiv.org/abs/2405.03710),|
 
 
 ## Top AI Papers of the Week (May 20 - May 26) - 2024
@@ -95,6 +99,7 @@ Here is the weekly series:
 | ------------- | ------------- |
 | 1) **xLSTM: Extended Long Short-Term Memory** - Firstly, we introduce exponential gating with appropriate normalization and stabilization techniques. Secondly, we modify the LSTM memory structure, obtaining: (i) sLSTM with a scalar memory, a scalar update, and new memory mixing, (ii) mLSTM that is fully parallelizable with a matrix memory and a covariance update rule. Integrating these LSTM extensions into residual block backbones yields xLSTM blocks that are then residually stacked into xLSTM architectures.  | [Paper](https://arxiv.org/abs/2405.04517),|
 | 2) **Chain of Thoughtlessness: An Analysis of CoT in Planning** -This paper presents a case study of chain of thought on problems from Blocksworld, a classical planning domain, and examine the performance of two state-of-the-art LLMs across two axes: generality of examples given in prompt, and complexity of problems queried with each prompt. While our problems are very simple, we only find meaningful performance improvements from chain of thought prompts when those prompts are exceedingly specific to their problem class, and that those improvements quickly deteriorate as the size n of the query-specified stack grows past the size of stacks shown in the examples.  . | [Paper](https://arxiv.org/abs/2405.04776)|
+
 
 
 
