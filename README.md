@@ -1,4 +1,4 @@
-# Top AI Papers of the Week
+2# Top AI Papers of the Week
 🔥Highlighting Top LLM ,Diffusion Models,Agent,etc Papers every week. I ❤️ reading Top AI papers so I've created this repo to highlight the top AI papers of every week.
 
 NOTE:The repo only displays papers last two years ,as for papers from other years, please go to the Archives folder to find them
@@ -7,6 +7,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top AI Papers of the Week (June 17 - June 23)](./#top-AI-papers-of-the-week-june-17---june-23---2024)
 - [Top AI Papers of the Week (June 10 - June 16)](./#top-AI-papers-of-the-week-june-10---june-16---2024)
 - [Top AI Papers of the Week (June 3 - June 9)](./#top-AI-papers-of-the-week-june-3---june-9---2024)
 - [Top AI Papers of the Week (May 27 - June 2)](./#top-AI-papers-of-the-week-may-27---june-2---2024)
@@ -86,6 +87,12 @@ Here is the weekly series:
 - [Top AI Papers of the Week (Jan 16-22)](./#top-AI-papers-of-the-week-jan-16-22)
 - [Top AI Papers of the Week (Jan 9-15)](./#top-AI-papers-of-the-week-jan-9-15)
 - [Top AI Papers of the Week (Jan 1-8)](./#top-AI-papers-of-the-week-jan-1-8)
+
+
+## Top AI Papers of the Week (June 17 - June 23) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Attention as an RNN** - ddressing this, we (1) begin by showing that attention can be viewed as a special Recurrent Neural Network (RNN) with the ability to compute its \textit{many-to-one} RNN output efficiently. We then (2) show that popular attention-based models such as Transformers can be viewed as RNN variants. However, unlike traditional RNNs (e.g., LSTMs), these models cannot be updated efficiently with new tokens, an important property in sequence modelling. Tackling this, we (3) introduce a new efficient method of computing attention's \textit{many-to-many} RNN output based on the parallel prefix scan algorithm. Building on the new attention formulation, we (4) introduce \textbf{Aaren}, an attention-based module that can not only (i) be trained in parallel (like Transformers) but also (ii) be updated efficiently with new tokens, requiring only constant memory for inferences (like traditional RNNs)..   | [Paper](https://arxiv.org/abs/2405.13956) |
 
 
 
