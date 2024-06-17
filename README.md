@@ -1,4 +1,4 @@
-2# Top AI Papers of the Week
+# Top AI Papers of the Week
 🔥Highlighting Top LLM ,Diffusion Models,Agent,etc Papers every week. I ❤️ reading Top AI papers so I've created this repo to highlight the top AI papers of every week.
 
 NOTE:The repo only displays papers last two years ,as for papers from other years, please go to the Archives folder to find them
