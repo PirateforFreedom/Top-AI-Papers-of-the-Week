@@ -7,6 +7,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top AI Papers of the Week (June 24 - June 30)](./#top-AI-papers-of-the-week-june-24---june-30---2024)
 - [Top AI Papers of the Week (June 17 - June 23)](./#top-AI-papers-of-the-week-june-17---june-23---2024)
 - [Top AI Papers of the Week (June 10 - June 16)](./#top-AI-papers-of-the-week-june-10---june-16---2024)
 - [Top AI Papers of the Week (June 3 - June 9)](./#top-AI-papers-of-the-week-june-3---june-9---2024)
@@ -87,6 +88,14 @@ Here is the weekly series:
 - [Top AI Papers of the Week (Jan 16-22)](./#top-AI-papers-of-the-week-jan-16-22)
 - [Top AI Papers of the Week (Jan 9-15)](./#top-AI-papers-of-the-week-jan-9-15)
 - [Top AI Papers of the Week (Jan 1-8)](./#top-AI-papers-of-the-week-jan-1-8)
+
+
+
+
+## Top AI Papers of the Week (June 24 - June 30) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Open-Endedness is Essential for Artificial Superhuman Intelligence** -In this position paper, we argue that the ingredients are now in place to achieve openendedness in AI systems with respect to a human observer. Furthermore, we claim that such open-endedness is an essential property of any artificial superhuman intelligence (ASI). .   | [Paper](https://arxiv.org/abs/2406.04268) |
 
 
 ## Top AI Papers of the Week (June 17 - June 23) - 2024
