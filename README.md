@@ -7,6 +7,8 @@ Here is the weekly series:
 
 ## 2024
 
+
+- [Top AI Papers of the Week (July 1 - July 7)](./#top-AI-papers-of-the-week-july-1---july-7---2024)
 - [Top AI Papers of the Week (June 24 - June 30)](./#top-AI-papers-of-the-week-june-24---june-30---2024)
 - [Top AI Papers of the Week (June 17 - June 23)](./#top-AI-papers-of-the-week-june-17---june-23---2024)
 - [Top AI Papers of the Week (June 10 - June 16)](./#top-AI-papers-of-the-week-june-10---june-16---2024)
@@ -90,6 +92,13 @@ Here is the weekly series:
 - [Top AI Papers of the Week (Jan 1-8)](./#top-AI-papers-of-the-week-jan-1-8)
 
 
+
+
+
+## Top AI Papers of the Week (July 1 - July 7) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **RAG Does Not Work for Enterprises** -e of large language model outputs by incorporating knowledge retrieval. However, implementing RAG in enterprises poses challenges around data security, accuracy, scalability, and integration. This paper explores the unique requirements for enterprise RAG, surveys current approaches and limitations, and discusses potential advances in semantic search, hybrid queries, and optimized retrieval. It proposes an evaluation framework to validate enterprise RAG solutions, including quantitative testing, qualitative analysis, ablation studies, and industry case studies.  .   | [Paper](https://arxiv.org/abs/2406.04369) |
 
 
 ## Top AI Papers of the Week (June 24 - June 30) - 2024
