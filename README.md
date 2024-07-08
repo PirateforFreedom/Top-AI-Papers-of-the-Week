@@ -7,7 +7,7 @@ Here is the weekly series:
 
 ## 2024
 
-
+- [Top AI Papers of the Week (July 8 - July 14)](./#top-AI-papers-of-the-week-july-8---july-14---2024)
 - [Top AI Papers of the Week (July 1 - July 7)](./#top-AI-papers-of-the-week-july-1---july-7---2024)
 - [Top AI Papers of the Week (June 24 - June 30)](./#top-AI-papers-of-the-week-june-24---june-30---2024)
 - [Top AI Papers of the Week (June 17 - June 23)](./#top-AI-papers-of-the-week-june-17---june-23---2024)
@@ -90,6 +90,12 @@ Here is the weekly series:
 - [Top AI Papers of the Week (Jan 16-22)](./#top-AI-papers-of-the-week-jan-16-22)
 - [Top AI Papers of the Week (Jan 9-15)](./#top-AI-papers-of-the-week-jan-9-15)
 - [Top AI Papers of the Week (Jan 1-8)](./#top-AI-papers-of-the-week-jan-1-8)
+
+
+## Top AI Papers of the Week (July 8 - July 14) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Towards a Personal Health Large Language Model** - Here we present Personal Health Large Language Model (PH-LLM), fine-tuned from Gemini for understanding and reasoning over numerical time-series personal health data. We created and curated three datasets that test 1) production of personalized insights and recommendations from sleep patterns, physical activity, and physiological responses, 2) expert domain knowledge, and 3) prediction of self-reported sleep outcomes.   .   | [Paper](https://arxiv.org/abs/2406.06474) |
 
 
 
