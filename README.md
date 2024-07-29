@@ -7,7 +7,7 @@ Here is the weekly series:
 
 ## 2024
 
-
+- [Top AI Papers of the Week (July 29 - August 2)](./#top-AI-papers-of-the-week-july-29---august-2---2024)
 - [Top AI Papers of the Week (July 22 - July 26)](./#top-AI-papers-of-the-week-july-22---july-26---2024)
 - [Top AI Papers of the Week (July 15 - July 21)](./#top-AI-papers-of-the-week-july-15---july-21---2024)
 - [Top AI Papers of the Week (July 8 - July 14)](./#top-AI-papers-of-the-week-july-8---july-14---2024)
@@ -93,6 +93,16 @@ Here is the weekly series:
 - [Top AI Papers of the Week (Jan 16-22)](./#top-AI-papers-of-the-week-jan-16-22)
 - [Top AI Papers of the Week (Jan 9-15)](./#top-AI-papers-of-the-week-jan-9-15)
 - [Top AI Papers of the Week (Jan 1-8)](./#top-AI-papers-of-the-week-jan-1-8)
+
+
+
+
+
+## Top AI Papers of the Week (July 29 - August 2) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Mixture of A Million Experts** -Sparse mixture-of-experts (MoE) architectures have emerged as a viable approach to address this issue by decoupling model size from computational cost. The recent discovery of the fine-grained MoE scaling law shows that higher granularity leads to better performance.. | [Paper](https://web3.arxiv.org/abs/2407.04153)|
+
 
 
 
