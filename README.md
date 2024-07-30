@@ -102,6 +102,7 @@ Here is the weekly series:
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Mixture of A Million Experts** -Sparse mixture-of-experts (MoE) architectures have emerged as a viable approach to address this issue by decoupling model size from computational cost. The recent discovery of the fine-grained MoE scaling law shows that higher granularity leads to better performance.. | [Paper](https://web3.arxiv.org/abs/2407.04153)|
+| 2) **Transformer Layers as Painters** -We aim to better understand the impact of removing or reorganizing information throughout the layers of a pretrained transformer. Such an understanding could both yield better usage of existing models as well as to make architectural improvements to produce new variants. We present a series of empirical studies on frozen models that show that the lower and final layers of pretrained transformers differ from middle layers, but that middle layers have a surprising amount of uniformity. . | [Paper](https://arxiv.org/abs/2407.09298)|
 
 
 
