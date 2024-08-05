@@ -7,6 +7,8 @@ Here is the weekly series:
 
 ## 2024
 
+
+- [Top AI Papers of the Week (August 5 - August 11)](./#top-AI-papers-of-the-week-august-5---august-11---2024)
 - [Top AI Papers of the Week (July 29 - August 2)](./#top-AI-papers-of-the-week-july-29---august-2---2024)
 - [Top AI Papers of the Week (July 22 - July 26)](./#top-AI-papers-of-the-week-july-22---july-26---2024)
 - [Top AI Papers of the Week (July 15 - July 21)](./#top-AI-papers-of-the-week-july-15---july-21---2024)
@@ -98,6 +100,13 @@ Here is the weekly series:
 
 
 
+## Top AI Papers of the Week (August 5 - August 11) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) *Octopus v2: On-device language model for super agent** - These models possess the crucial ability to call functions, which is essential in creating AI agents. Despite the high performance of large-scale language models in cloud environments, they are often associated with concerns over privacy and cost. Current on-device models for function calling face issues with latency and accuracy. Our research presents a new method that empowers an on-device model with 2 billion parameters to surpass the performance of GPT-4 in both accuracy and latency, and decrease the context length by 95\%. When compared to Llama-7B with a RAG-based function calling mechanism, our method enhances latency by 35-fold... | [Paper](https://arxiv.org/abs/2404.01744)|
+
+
+
 ## Top AI Papers of the Week (July 29 - August 2) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
@@ -133,6 +142,7 @@ Here is the weekly series:
 
 ## Top AI Papers of the Week (July 15 - July 21) - 2024
 | **Paper**  | **Links** |
+| ------------- | ------------- |
 | 1) **Improving Legibility of LLM Outputs** - iteratively trains small verifiers to predict solution correctness, helpful provers to produce correct solutions accepted by the verifier, and sneaky provers that produce incorrect solutions that fool the verifier; this process helps train models that can produce text that is correct and easy to understand by both humans and AI systems which leads to more trustworthy systems.  | [Paper](https://arxiv.org/abs/2407.13692), [Tweet](https://x.com/OpenAI/status/1813623470452064432) |
 | 2) **SpreadsheetLLM** - presents an efficient encoding method to optimize an LLM’s understanding and reasoning capability on spreadsheets; develops a sheet compressor consisting of structural-anchor-based compression, inverse index translation, and data-format-aware aggregation modules to efficiently compress and encode spreadsheets; in GPT-4’s in-context learning, it improves performance in spreadsheet table detection by 25.6%.  | [Paper](https://arxiv.org/abs/2407.09025), [Tweet](https://x.com/_akhaliq/status/1812674543963578794) |
 | 3) **Context Embeddings for Efficient Answer Generation in RAG** - proposes an effective context compression method to reduce long context and speed up generation time in RAG systems; the long contexts are compressed into a small number of context embeddings which allow different compression rates that trade-off decoding time for generation quality; reduces inference time by up to 5.69 × and GFLOPs by up to 22 × while maintaining high performance. | [Paper](http://arxiv.org/abs/2407.09252), [Tweet](https://x.com/omarsar0/status/1812937765769867561) |
