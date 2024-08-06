@@ -104,6 +104,8 @@ Here is the weekly series:
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) *Octopus v2: On-device language model for super agent** - These models possess the crucial ability to call functions, which is essential in creating AI agents. Despite the high performance of large-scale language models in cloud environments, they are often associated with concerns over privacy and cost. Current on-device models for function calling face issues with latency and accuracy. Our research presents a new method that empowers an on-device model with 2 billion parameters to surpass the performance of GPT-4 in both accuracy and latency, and decrease the context length by 95\%. When compared to Llama-7B with a RAG-based function calling mechanism, our method enhances latency by 35-fold... | [Paper](https://arxiv.org/abs/2404.01744)|
+| 2) *From Text to Life: On the Reciprocal Relationship between Artificial Life and Large Language Models** - We explore the potential of LLMs as tools for ALife research, for example, as operators for evolutionary computation or the generation of open-ended environments. Reciprocally, principles of ALife, such as self-organization, collective intelligence and evolvability can provide an opportunity for shaping the development and functionalities of LLMs, leading to more adaptive and responsive models. By investigating this dynamic interplay, the paper aims to inspire innovative crossover approaches for both ALife and LLM research.. | [Paper](https://arxiv.org/abs/2407.09502)|
+
 
 
 
