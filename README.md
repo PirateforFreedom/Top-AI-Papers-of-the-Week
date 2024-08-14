@@ -104,7 +104,7 @@ Here is the weekly series:
 ## Top AI Papers of the Week (August 12 - August 16) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1) **SAM 2** - an open unified model for real-time, promptable object segmentation in images and videos; can be applied to unseen visual content without the need for custom adaptation; to enable accurate mask prediction in videos, a memory mechanism is introduced to store information on the object and previous interactions; the memory module also allows real-time processing of arbitrarily long videos; SAM2 significantly outperforms previous approaches on interactive video segmentation across 17 zero-shot video datasets while requiring three times fewer human-in-the-loop interactions.  | [Paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/), [Tweet](https://x.com/AIatMeta/status/1818055906179105010) |
+| 1) **The Llama 3 Herd of Models** - This paper presents a new set of foundation models, called Llama 3. It is a herd of language models that natively support multilinguality, coding, reasoning, and tool usage. Our largest model is a dense Transformer with 405B parameters and a context window of up to 128K tokens. This paper presents an extensive empirical evaluation of Llama 3. We find that Llama 3 delivers comparable quality to leading language models such as GPT-4 on a plethora of tasks. We publicly release Llama 3, including pre-trained and post-trained versions of the 405B parameter language model and our Llama Guard 3 model for input and output safety. .  | [Paper](https://arxiv.org/abs/2407.21783),  |
 
 
 
